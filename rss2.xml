@@ -15,8 +15,25 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 16 Mar 2020 12:40:25 GMT</pubDate>
+    <pubDate>Tue, 17 Mar 2020 01:51:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>将hexo博客部署到Github Pages</title>
+      <link>https://aemoncao.github.io/2020/03/16/%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/</link>
+      <guid>https://aemoncao.github.io/2020/03/16/%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/</guid>
+      <pubDate>Mon, 16 Mar 2020 13:50:55 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;本来博客是部署在自己的服务器上的，但是华为云的备案实在是太慢了，所以想着先部署到 &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Github Pages&lt;/a&gt; 上，这样至少不用每天顶着个服务器地址来访问了。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>本来博客是部署在自己的服务器上的，但是华为云的备案实在是太慢了，所以想着先部署到 <a href="https://pages.github.com/" target="_blank" rel="noopener">Github Pages</a> 上，这样至少不用每天顶着个服务器地址来访问了。</p><a id="more"></a>]]></content:encoded>
+      
+      <comments>https://aemoncao.github.io/2020/03/16/%E5%B0%86hexo%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2%E5%88%B0Github-Pages/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>在微信中使用 ToDoList</title>
