@@ -14,10 +14,10 @@
 
 <h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p>效果如下：</p>
 <!-- ![效果.jpg](https://i.loli.net/2020/03/13/pcINsy3t4xwO8ro.jpg) -->
-<img src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E6%95%88%E6%9E%9C.jpg" class="" title="效果.jpg">
+<img data-src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E6%95%88%E6%9E%9C.jpg" class="" title="效果.jpg">
 
 <!-- ![置顶.jpg](https://i.loli.net/2020/03/13/oqslDcLjPWhFyJt.jpg) -->
-<img src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E7%BD%AE%E9%A1%B6.jpg" class="" title="置顶.jpg">
+<img data-src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E7%BD%AE%E9%A1%B6.jpg" class="" title="置顶.jpg">
 
 <h2 id="具体步骤"><a href="#具体步骤" class="headerlink" title="具体步骤"></a>具体步骤</h2><ol>
 <li><p>打开 <code>微信</code>-<code>我</code>-<code>收藏</code>；</p>
@@ -28,11 +28,11 @@
 </li>
 <li><p>然后下方的几个按钮就可以使用了，一般都是用最后一个的待办列表；</p>
 <!-- ![待办](https://i.loli.net/2020/03/13/IDoYRdFaKsw1bHq.jpg) -->
-<img src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E5%BE%85%E5%8A%9E.jpg" class="" title="待办.jpg">
+<img data-src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E5%BE%85%E5%8A%9E.jpg" class="" title="待办.jpg">
 </li>
 <li><p>填写完成后，点击右上角的 <code>···</code>，你可以选择<code>浮窗</code>，也可以选择置顶<code>在聊天中置顶</code>；</p>
 <!-- ![置顶选项.jpg](https://i.loli.net/2020/03/13/9FCy2oXMiQdrla1.jpg) -->
-<img src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E7%BD%AE%E9%A1%B6%E9%80%89%E9%A1%B9.jpg" class="" title="置顶选项.jpg">
+<img data-src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E7%BD%AE%E9%A1%B6%E9%80%89%E9%A1%B9.jpg" class="" title="置顶选项.jpg">
 </li>
 <li><p>这样就已经完成了，当你需要查看的时候，你只需要点击聊天列表界面顶部的 <code>ToDoList</code>，就能进入这份笔记中查看你的待办事项了。</p>
 </li>
@@ -41,7 +41,7 @@
 <p>我一般是在去超市进行采购的时候，会在这里列一下采购清单，方便核对。</p>
 <p>说起提醒功能，微信可以对聊天双方所发的消息进行提醒，长按一条消息，在 <a href="https://zhuanlan.zhihu.com/p/29026281" target="_blank" rel="noopener">Popover</a> 中选择 <code>提醒</code>（在 IOS 中需要点击 Popover 右侧的 <code>▶</code>，才能在下一页看到 <code>提醒</code> 选项），选择提醒时间后，微信就会在提醒时间为你发送一条提醒。</p>
 <!-- ![提醒](https://i.loli.net/2020/03/13/hrTYKjQmvH3zxb4.jpg) -->
-<img src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E6%8F%90%E9%86%92.jpg" class="" title="提醒.jpg">
+<img data-src="/2020/03/13/%E5%9C%A8%E5%BE%AE%E4%BF%A1%E4%B8%AD%E4%BD%BF%E7%94%A8ToDoList/%E6%8F%90%E9%86%92.jpg" class="" title="提醒.jpg">
 
 <p>微信真的是很封闭的软件，你甚至不能找到分享到其他 APP 的按钮。</p>
 ]]></content>
@@ -159,13 +159,13 @@
 </li>
 <li><p>安装完成后，你的左侧边栏就会多出一个「远程资源管理器（Remote Explorer）」的图标，如下图所示：</p>
 <!-- ![Remote Explorer](https://i.loli.net/2020/03/08/YXuTfDQxovHUkNm.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/RemoteExplorer.png" class="" title="RemoteExplorer">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/RemoteExplorer.png" class="" title="RemoteExplorer">
 
 </li>
 </ol>
 <h2 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a>开始使用</h2><h3 id="进行连接"><a href="#进行连接" class="headerlink" title="进行连接"></a>进行连接</h3><p>点击远程资源管理器图标，在 SSH TARGETS 栏中点击加号，来新建一个 ssh 连接：</p>
 <!-- ![SSH TARGETS](https://i.loli.net/2020/03/08/mlqFf1N9nuxRaEp.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/SSHTARGETS.png" class="" title="SSHTARGETS">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/SSHTARGETS.png" class="" title="SSHTARGETS">
 
 <p>输入：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ssh user@host</span><br></pre></td></tr></table></figure>
@@ -178,33 +178,33 @@
 <p>回车，然后选择一个配置文件进行保存。</p>
 <p>这时候在左侧 SSH TARGETS 下将会出现以你的 host 为名称的项目，右键选择在连接当前窗口或者在新窗口，进行连接。</p>
 <!-- ![password.png](https://i.loli.net/2020/03/08/jXhLQ2UgY5Gwl3f.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/password.png" class="" title="password">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/password.png" class="" title="password">
 
 <p>输入当前用户名所对应的密码。</p>
 <p>这时你的窗口左下角将会将会显示正在连接：</p>
 <!-- ![Opening](https://i.loli.net/2020/03/08/Fa6xRzThrIsEYUN.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/Opening.png" class="" title="Opening">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/Opening.png" class="" title="Opening">
 
 <p>等待一段时间后。如果变成以下样式，则为连接成功：</p>
 <!-- ![success.png](https://i.loli.net/2020/03/08/v6jDnFKbcJPWLRl.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/success.png" class="" title="success">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/success.png" class="" title="success">
 
 <h3 id="选择文件夹"><a href="#选择文件夹" class="headerlink" title="选择文件夹"></a>选择文件夹</h3><p>连接成功后，你要选择需要进行工作的文件夹，基本上是一个项目的根目录。</p>
 <ol start="0">
 <li><p>点击左侧边栏的 Expoler（或者使用快捷键 Ctrl+Shift+E）打开资源管理器：</p>
 <!-- ![expoler.png](https://i.loli.net/2020/03/08/Tltvb9aLrmq67CI.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/expoler.png" class="" title="expoler">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/expoler.png" class="" title="expoler">
 </li>
 <li><p>点击 Open Folder 按钮来选择文件夹：</p>
 <!-- ![open-folder.png](https://i.loli.net/2020/03/08/2JU7CYA5i6T1Fzc.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/open-folder.png" class="" title="open-folder">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/open-folder.png" class="" title="open-folder">
 </li>
 <li><p>点击 OK，这时可能需要你再次输入密码，之后你的资源管理器中就会有选择文件夹下的文件了。</p>
 </li>
 </ol>
 <h3 id="权限修改"><a href="#权限修改" class="headerlink" title="权限修改"></a>权限修改</h3><p>这时候你已经可以点击任意一个文件来进行预览了，为什么说是预览呢，因为当你尝试编辑并保存时，系统会有如下警告：</p>
 <!-- ![error.png](https://i.loli.net/2020/03/08/BemOgUkIxCsjPrh.png) -->
-<img src="/2020/03/08/Remote-development-in-Visual-Studio-Code/error.png" class="" title="error">
+<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/error.png" class="" title="error">
 
 <p>提示权限不够。</p>
 <p>最简单的方法是执行以下命令：</p>
@@ -628,7 +628,7 @@
 <a id="more"></a>
 
 <!-- ![5.png](https://i.loli.net/2018/07/19/5b507b12be317.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/%E7%94%B5%E8%B4%B9.webp" class="" title="电费">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/%E7%94%B5%E8%B4%B9.webp" class="" title="电费">
 
 
 <p>所以需要一种可以远程开机的办法。</p>
@@ -648,20 +648,20 @@
 </ol>
 <h2 id="具体操作"><a href="#具体操作" class="headerlink" title="具体操作"></a>具体操作</h2><h3 id="局域网设备配置"><a href="#局域网设备配置" class="headerlink" title="局域网设备配置"></a>局域网设备配置</h3><p>首先是家中局域网的配置，PC 和 树莓派要位于同一局域网，然后在路由器中把两者的 MAC 和 IP 进行绑定。这里需要注意的是 MAC 不是代表一台设备而是一个网卡，所以在设置树莓派的 MAC 地址的时候需要根据当前树莓派连接路由器的方式来设置。我使用的路由器可以直接查看设备的 MAC 地址。如下：</p>
 <!-- ![Routerlist.png](https://i.loli.net/2018/07/19/5b507b1a3f9aa.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/Routerlist.webp" class="" title="Routerlist">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/Routerlist.webp" class="" title="Routerlist">
 
 <p>如果路由器无法查看 MAC 地址或者设备太多无法区分，那么在 <strong>Windows</strong> 系统下可以使用</p>
 <figure class="highlight bat"><table><tr><td class="code"><pre><span class="line"><span class="built_in">ipconfig</span> -all</span><br></pre></td></tr></table></figure>
 
 <p>来查看</p>
 <!-- ![MACWindows.png](https://i.loli.net/2018/07/19/5b507b1a4128f.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/MACWindows.webp" class="" title="MACWindows">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/MACWindows.webp" class="" title="MACWindows">
 
 <p>在 <strong>raspberry</strong> 下可以使用</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ifconfig</span><br></pre></td></tr></table></figure>
 
 <p>来查看</p>
-<p><img src="https://i.loli.net/2018/07/19/5b507b1a4292a.png" alt="MACraspberry.png"></p>
+<p><img data-src="https://i.loli.net/2018/07/19/5b507b1a4292a.png" alt="MACraspberry.png"></p>
 
 
 <p>可以看到树莓派有两个 MAC 地址，由于我是使用无线连接所以我选择的是第二个 _wlan0_。 然后使用 <strong>IP/MAC绑定</strong> 功能将两台设备与 IP 进行绑定，绑定的时候建议就选择当前使用的 IP 以免用了其他设备正在使用的 IP，造成 IP 冲突。 如果绑定了其他的 IP，请在绑定成功后重启设备。</p>
@@ -675,19 +675,19 @@
 </blockquote>
 <p>所以我们要先设置 BIOS 打开「<strong>网卡唤醒</strong>」这一功能，由于各个品牌主板的 BIOS 各不相同，所以设置的方法也各式各样，大家可以自行搜索「<strong>wake on lan 设置</strong>」，来寻找正确的方式。不过大多是在 <strong>电源管理</strong>（Power Management Setup）中。 然后是系统上的设置，这里我以 <em>Windows 10 17134.165</em> 版本为例。 首先右键「<strong>网络</strong>」-「<strong>属性</strong>」来打开「<strong>网络和共享中心</strong>」面板：</p>
 <!-- ![4.png](https://i.loli.net/2018/07/19/5b507b129fdee.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/4.webp" class="" title="网络和共享中心">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/4.webp" class="" title="网络和共享中心">
 
 <p>在左侧单击「<strong>更改适配器设置</strong>」-右键你现在正在使用的网卡-「<strong>属性</strong>」来打开「<strong>属性</strong>」面板：</p>
 <!-- ![1.png](https://i.loli.net/2018/07/19/5b507b12983ac.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/1.png" class="" title="更改适配器设置">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/1.png" class="" title="更改适配器设置">
 
 <p>单击上方的「<strong>配置</strong>」-选择「<strong>高级</strong>」选项卡-在属性类别中将「<strong>关机 网络唤醒</strong>」和「<strong>魔术封包唤醒</strong>」的值设置为「<strong>开启</strong>」：</p>
 <!-- ![3.png](https://i.loli.net/2018/07/19/5b507b129f1e7.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/3.webp" class="" title="高级">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/3.webp" class="" title="高级">
 
 <p>选择「<strong>电源管理</strong>」选项卡-勾选「<strong>允许计算机关闭此设备以节约电源</strong>」和「<strong>允许此设备唤醒计算机</strong>」选项：</p>
 <!-- ![2.png](https://i.loli.net/2018/07/19/5b507b1298186.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/2.webp" class="" title="电源管理">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/2.webp" class="" title="电源管理">
 
 <p>就此，PC 端的设置已经完成了。</p>
 <h3 id="带公网-IP-的服务器配置"><a href="#带公网-IP-的服务器配置" class="headerlink" title="带公网 IP 的服务器配置"></a>带公网 IP 的服务器配置</h3><p>带公网 IP 的服务器，大家可以去阿里云或者腾讯云买一台最低配的就可以了，我的这台是之前在腾讯云薅羊毛薅的。 这个服务器的作用主要是运行 <em>frp</em> 的服务端来使局域网内的树莓派可以内网穿透。 <em>frp</em> 是一个免费的开源的内网穿透软件，而且部署简单方便。具体方式如下：</p>
@@ -722,7 +722,7 @@
 <p>至此，服务器也设置完成。</p>
 <h3 id="树莓派配置"><a href="#树莓派配置" class="headerlink" title="树莓派配置"></a>树莓派配置</h3><p>我现在使用的是 <em>Raspberry 3B_，当时是在淘宝 _￥195</em> 的价格买的，如果配上电源以及 <em>SD</em> 卡的等配件一共是 _￥278.9_。清单如下：</p>
 <!-- ![list.png](https://i.loli.net/2018/07/19/5b507b12b3fed.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/list.webp" class="" title="list">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/list.webp" class="" title="list">
 
 <p>之后的系统安装我就不在这详细说明了，网上有很多详细的教程。 树莓派的配置和服务器配置其实是差不多的，不同的是服务器上的部署的是 <em>frp</em> 的服务端，而树莓派上的部署的是客户端。 从下载到解压的步骤和服务器端是一模一样的，只要照着之前的步骤做就可以了。 从第三步删除文件开始有所不同：</p>
 <h4 id="删除不必要的文件"><a href="#删除不必要的文件" class="headerlink" title="删除不必要的文件"></a>删除不必要的文件</h4><p>在服务器上我们删除的是 <code>frpc</code> 和 <code>frpc.ini</code>，这两个是 <em>frp</em> 的客户端程序和客户端配置文件，同理我们在树莓派也就是服务器端上就要删除 <code>frps</code> 和 <code>frps.ini</code> 这两个文件：</p>
@@ -744,11 +744,11 @@
 
 <p>然后键入树莓派的密码就可以了：</p>
 <!-- ![SSHraspberryPC.png](https://i.loli.net/2018/07/19/5b507b1a44208.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/SSHraspberryPC.png" class="" title="SSHraspberryPC">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/SSHraspberryPC.png" class="" title="SSHraspberryPC">
 
 <p>当然也可以用手机的移动网络来访问：</p>
 <!-- ![SSHPhone.png](https://i.loli.net/2018/07/19/5b507b1a5450c.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/SSHPhone.webp" class="" title="SSHPhone">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/SSHPhone.webp" class="" title="SSHPhone">
 
 <p>至此我们已经成功的内网内网穿透了，即可以从外网访问内网设备了，接下来我们就要通过树莓派来使家中的 PC 开机了。</p>
 <h3 id="在树莓派上使用-WOL-控制-PC-开机"><a href="#在树莓派上使用-WOL-控制-PC-开机" class="headerlink" title="在树莓派上使用 WOL 控制 PC 开机"></a>在树莓派上使用 <em>WOL</em> 控制 PC 开机</h3><p>这里我找了好多软件，测试了好久，不是没有 <em>Linux</em> 平台的，就是不能用。所以最后还是用 <em>Python</em> 了，具体代码如下：</p>
@@ -761,7 +761,7 @@
 <h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ol>
 <li><p>事后，我用 <em>Wireshark</em> 抓了包，找到了这个 _Magic Packet_：</p>
 <!-- ![6.png](https://i.loli.net/2018/07/19/5b507b12b69cb.png) -->
-<img src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/6.webp" class="" title="MagicPacket">
+<img data-src="/2018/07/19/use-raspberry-with-frp-for-remote-boot/6.webp" class="" title="MagicPacket">
 
 <p>发现和 <em>Wiki</em> 上说的一样：以 <code>6</code> 个 <code>FF</code> 开始，并且重复 <code>16</code> 遍 MAC 地址。</p>
 </li>
@@ -842,7 +842,7 @@
 
 <h2 id="IGame-游戏公司的故事"><a href="#IGame-游戏公司的故事" class="headerlink" title="IGame 游戏公司的故事"></a>IGame 游戏公司的故事</h2><h3 id="讨论会"><a href="#讨论会" class="headerlink" title="讨论会"></a>讨论会</h3><p>话说有一个叫 IGame 的游戏公司，正在开发一款 ARPG 游戏（动作&amp;角色扮演类游戏，如魔兽世界、梦幻西游这一类的游戏）。一般这类游戏都有一个基本的功能，就是打怪（玩家攻击怪物，借此获得经验、虚拟货币和虚拟装备），并且根据玩家角色所装备的武器不同，攻击效果也不同。这天，IGame 公司的开发小组正在开会对打怪功能中的某一个功能点如何实现进行讨论，他们面前的大屏幕上是这样一份需求描述的 PPT：</p>
 <!-- ![01_3.gif](https://i.loli.net/2017/09/15/59bb9d3e3a3c1.gif) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/1.webp" class="" title="PPT">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/1.webp" class="" title="PPT">
 
 <p><strong>图1.1 需求描述ppt</strong></p>
 <p>各个开发人员，面对这份需求，展开了热烈的讨论，下面我们看看讨论会上都发生了什么。</p>
@@ -855,7 +855,7 @@
 
 <p>程序运行结果如下：</p>
 <!-- ![02_3.gif](https://i.loli.net/2017/09/15/59bbae64f08ba.gif) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/2.webp" class="" title="结果023">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/2.webp" class="" title="结果023">
 
 <p><strong>图1.2 小李程序的运行结果</strong></p>
 <h3 id="架构师的建议"><a href="#架构师的建议" class="headerlink" title="架构师的建议"></a>架构师的建议</h3><p>小李阐述完自己的想法并演示了 Demo 后，项目组长 Peter 首先肯定了小李的思考能力、编程能力以及初步的面向对象分析与设计的思想，并承认小李的程序正确完成了需求中的功能。但同时，Peter 也指出小李的设计存在一些问题，他请小于讲一下自己的看法。 小于是一名有五年软件架构经验的架构师，对软件架构、设计模式和面向对象思想有较深入的认识。他向 Peter 点了点头，发表了自己的看法： “小李的思考能力是不错的，有着基本的面向对象分析设计能力，并且程序正确完成了所需要的功能。不过，这里我想从架构角度，简要说一下我认为这个设计中存在的问题。 首先，小李设计的 <code>Role</code> 类的 <code>Attack</code> 方法很长，并且方法中有一个冗长的 <code>if…else</code> 结构，且每个分支的代码的业务逻辑很相似，只是很少的地方不同。 再者，我认为这个设计比较大的一个问题是，违反了 OCP 原则。在这个设计中，如果以后我们增加一个新的武器，如倚天剑，每次攻击损失 500HP，那么，我们就要打开 <code>Role</code>，修改 <code>Attack</code> 方法。而我们的代码应该是对修改关闭的，当有新武器加入的时候，应该使用扩展完成，避免修改已有代码。 一般来说，当一个方法里面出现冗长的 <code>if…else</code> 或 <code>switch…case</code> 结构，且每个分支代码业务相似时，往往预示这里应该引入多态性来解决问题。而这里，如果把不同武器攻击看成一个策略，那么引入策略模式（ <em>Strategy Pattern</em> ）是明智的选择。 最后说一个小的问题，被攻击后，减HP、死亡判断等都是怪物的职责，这里放在 <code>Role</code> 中有些不当。”</p>
@@ -864,7 +864,7 @@
 </blockquote>
 <p>小于边说，边画了一幅 UML 类图，用于直观表示他的思想：、</p>
 <!-- ![03_3.jpg](https://i.loli.net/2017/09/15/59bbaf77f3db6.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/3.webp" class="" title="uml类图">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/3.webp" class="" title="uml类图">
 
 <p><strong>图1.3 小于的设计</strong></p>
 <p>Peter 让小李按照小于的设计重构 Demo，小李看了看小于的设计图，很快完成。相关代码如下：</p>
@@ -890,7 +890,7 @@
 <h3 id="依赖注入的类别"><a href="#依赖注入的类别" class="headerlink" title="依赖注入的类别"></a>依赖注入的类别</h3><p>依赖注入有很多种方法，上面看到的例子中，只是其中的一种，下面分别讨论不同的依赖注入类型。</p>
 <h4 id="Setter-注入"><a href="#Setter-注入" class="headerlink" title="Setter 注入"></a>Setter 注入</h4><p>第一种依赖注入的方式，就是 Setter 注入，上面的例子中，将武器注入 <code>Role</code> 就是 Setter 注入。正式点说： Setter 注入（ <em>Setter Injection</em> ）是指在客户类中，设置一个服务类接口类型的数据成员，并设置一个 <code>Set</code> 方法作为注入点，这个 <code>Set</code> 方法接受一个具体的服务类实例为参数，并将它赋给服务类接口类型的数据成员。</p>
 <!-- ![04_6.jpg](https://i.loli.net/2017/09/15/59bbb21e689a0.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/4.webp" class="" title="img046">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/4.webp" class="" title="img046">
 
 <p><strong>图3.1 Setter注入示意</strong></p>
 <p>上图展示了Setter注入的结构示意图，客户类 <code>ClientClass</code> 设置 <code>IServiceClass</code> 类型成员 <code>_serviceImpl</code>，并设置 <code>Set_ServiceImpl</code> 方法作为注入点。<code>Context</code> 会负责实例化一个具体的 <code>ServiceClass</code>，然后注入到 <code>ClientClass</code> 里。 下面给出 Setter 注入的示例代码：</p>
@@ -906,12 +906,12 @@
 
 <p>运行结果如下：</p>
 <!-- ![05_3.jpg](https://i.loli.net/2017/09/15/59bbb2c0e0be7.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/5.jpg" class="" title="结果053">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/5.jpg" class="" title="结果053">
 
 <p><strong>图3.2 Setter注入运行结果</strong></p>
 <h4 id="构造注入"><a href="#构造注入" class="headerlink" title="构造注入"></a>构造注入</h4><p>另外一种依赖注入方式，是通过客户类的构造函数，向客户类注入服务类实例。 构造注入（ <em>Constructor Injection</em> ）是指在客户类中，设置一个服务类接口类型的数据成员，并以构造函数为注入点，这个构造函数接受一个具体的服务类实例为参数，并将它赋给服务类接口类型的数据成员。</p>
 <!-- ![06_3.jpg](https://i.loli.net/2017/09/15/59bbb3267fef0.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/6.webp" class="" title="img063">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/6.webp" class="" title="img063">
 
 <p><strong>图3.3 构造注入示意</strong></p>
 <p>图3.3是构造注入的示意图，可以看出，与 Setter 注入很类似，只是注入点由 Setter 方法变成了构造方法。这里要注意，由于构造注入只能在实例化客户类时注入一次，所以一点注入，程序运行期间是没法改变一个客户类对象内的服务类实例的。 由于构造注入和 Setter 注入的 <code>IServiceClass</code>，<code>ServiceClassA</code> 和 <code>ServiceClassB</code> 是一样的，所以这里给出另外 <code>ClientClass</code> 类的示例代码：</p>
@@ -920,7 +920,7 @@
 <p>可以看到，唯一的变化就是构造函数取代了 <code>Set_ServiceImpl</code> 方法，成为了注入点。</p>
 <h4 id="依赖获取"><a href="#依赖获取" class="headerlink" title="依赖获取"></a>依赖获取</h4><p>上面提到的注入方式，都是客户类被动接受所依赖的服务类，这也符合“注入”这个词。不过还有一种方法，可以和依赖注入达到相同的目的，就是依赖获取。 依赖获取（ <em>Dependency Locate</em> ）是指在系统中提供一个获取点，客户类仍然依赖服务类的接口。当客户类需要服务类时，从获取点主动取得指定的服务类，具体的服务类类型由获取点的配置决定。 可以看到，这种方法变被动为主动，使得客户类在需要时主动获取服务类，而将多态性的实现封装到获取点里面。获取点可以有很多种实现，也许最容易想到的就是建立一个Simple Factory作为获取点，客户类传入一个指定字符串，以获取相应服务类实例。如果所依赖的服务类是一系列类，那么依赖获取一般利用 Abstract Factory 模式构建获取点，然后，将服务类多态性转移到工厂的多态性上，而工厂的类型依赖一个外部配置，如XML文件。 不过，不论使用 Simple Factory 还是 Abstract Factory，都避免不了判断服务类类型或工厂类型，这样系统中总要有一个地方存在不符合 OCP 的 <code>if…else</code> 或 <code>switch…case</code> 结构，这种缺陷是 Simple Factory 和 Abstract Factory 以及依赖获取本身无法消除的，而在某些支持反射的语言中（如 C#），通过将反射机制的引入彻底解决了这个问题（后面讨论）。 下面给一个具体的例子，现在我们假设有个程序，既可以使用 Windows 风格外观，又可以使用 Mac 风格外观，而内部业务是一样的。</p>
 <!-- ![07_3.jpg](https://i.loli.net/2017/09/15/59bbb3d9a6b9f.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/7.webp" class="" title="img073">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/7.webp" class="" title="img073">
 
 <p><strong>图3.4 依赖获取示意</strong></p>
 <p>上图乍看有点复杂，不过如果读者熟悉 Abstract Factory 模式，应该能很容易看懂，这就是 Abstract Factory 在实际中的一个应用。这里的 Factory Container 作为获取点，是一个静态类，它的“<strong>Type 构造函数</strong>”依据外部的XML配置文件，决定实例化哪个工厂。下面还是来看示例代码。由于不同组件的代码是相似的，这里只给出 Button 组件的示例代码，完整代码请参考文末附上的完整源程序。</p>
@@ -945,18 +945,18 @@
 
 <p>可以看到，这里我们将配置设置为 Mac 风格，编译运行上述代码，运行结果如下：</p>
 <!-- ![08_3.jpg](https://i.loli.net/2017/09/15/59bbb4ede424d.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/8.jpg" class="" title="结果083">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/8.jpg" class="" title="结果083">
 
 <p><strong>图3.5 配置Mac风格后的运行结果</strong></p>
 <p>现在，我们不动程序，仅仅将配置文件中的“Mac”改为 Windows，运行后结果如下：</p>
 <!-- ![09_3.jpg](https://i.loli.net/2017/09/15/59bbb4d5af22b.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/9.jpg" class="" title="结果093">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/9.jpg" class="" title="结果093">
 
 <p><strong>图3.6 配置为Windows风格后的运行结果</strong></p>
 <p>从运行结果看出，我们仅仅通过修改配置文件，就改变了整个程序的行为（我们甚至没有重新编译程序），这就是多态性的威力，也是依赖注入效果。 本节共讨论了三种基本的依赖注入类别，有关更多依赖注入类别和不同类别对比的知识，可以参考 Martin Fowler 的《<a href="https://www.martinfowler.com/articles/injection.html" target="_blank" rel="noopener"><em>Inversion of Control Containers and the Dependency Injection pattern</em></a>》。</p>
 <h3 id="反射与依赖注入"><a href="#反射与依赖注入" class="headerlink" title="反射与依赖注入"></a>反射与依赖注入</h3><p>回想上面 <em>Dependency Locate</em> 的例子，我们虽然使用了多态性和 <em>Abstract Factory</em> ，但对 OCP 贯彻的不够彻底。在理解这点前，朋友们一定要注意潜在扩展在哪里，潜在会出现扩展的地方是“新的组件系列”而不是“组件种类”，也就是说，这里我们假设组件就三种，不会增加新的组件，但可能出现新的外观系列，如需要加一套 <em>Ubuntu</em> 风格的组件，我们可以新增 <em>UbuntuWindow</em> 、 <em>UbuntuButton</em> 、 <em>UbuntuTextBox</em> 和 <em>UbuntuFactory</em> ，并分别实现相应接口，这是符合 OCP 的，因为这是扩展。但我们除了修改配置文件，还要无可避免的修改 <em>FactoryContainer</em> ，需要加一个分支条件，这个地方破坏了 OCP。依赖注入本身是没有能力解决这个问题的，但如果语言支持反射机制（ <em>Reflection</em> ），则这个问题就迎刃而解。 我们想想，现在的难点是出在这里：对象最终还是要通过“new”来实例化，而“<code>new</code>”只能实例化当前已有的类，如果未来有新类添加进来，必须修改代码。如果，我们能有一种方法，不是通过“<code>new</code>”，而是通过类的名字来实例化对象，那么我们只要将类的名字作为配置项，就可以实现在不修改代码的情况下，加载未来才出现的类。所以，反射给了语言“预见未来”的能力，使得多态性和依赖注入的威力大增。 下面是引入反射机制后，对上面例子的改进：</p>
 <!-- ![10_3.jpg](https://i.loli.net/2017/09/15/59bbb60a2b744.jpg) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/10.webp" class="" title="img103">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/10.webp" class="" title="img103">
 
 <p><strong>图3.7 引入反射机制的Dependency Locate</strong></p>
 <p>可以看出，引入反射机制后，结构简单了很多，一个反射工厂代替了以前的一堆工厂，<code>Factory Container</code> 也不需要了。而且以后有新组件系列加入时，反射工厂是不用改变的，只需改变配置文件就可以完成。下面给出反射工厂和配置文件的代码。</p>
@@ -973,11 +973,11 @@
 <h4 id="重量级-IoC-Container"><a href="#重量级-IoC-Container" class="headerlink" title="重量级 IoC Container"></a>重量级 IoC Container</h4><p>所谓重量级 <em>IoC Container</em> ，是指一般用外部配置文件（一般是 <em>XML</em> ）作为依赖源，并托管整个系统各个类的实例化的 <em>IoC Container</em> 。这种 <em>IoC Container</em> ，一般是承接了整个系统几乎所有多态性的依赖注入工作，并承接了所有服务类的实例化工作，而且这些实例化依赖于一个外部配置文件，这种 <em>IoC Container</em> ，很像通过一个文件，定义整个系统多态结构，视野宏大，想要很好驾驭这种 <em>IoC Container</em> ，需要一定的架构设计能力和丰富的实践经验。 <em>Spring</em> 和 <em>Spring.NET</em> 是重量级 <em>IoC Container</em> 的例子。一般来说，这种 <em>IoC Container</em> 稳定性有余而活性不足，适合进行低活多态性的依赖注入。</p>
 <h4 id="轻量级-IoC-Container"><a href="#轻量级-IoC-Container" class="headerlink" title="轻量级 IoC Container"></a>轻量级 IoC Container</h4><p>还有一种 <em>IoC Container</em> ，一般不依赖外部配置文件，而主要使用传参的 Setter 或 Construtor 注入，这种IoC Container叫做轻量级 <em>IoC Container</em> 。这种框架很灵活，使用方便，但往往不稳定，而且依赖点都是程序中的字符串参数，所以，不适合需要大规模替换和相对稳定的低活多态性，而对于高活多态性，有很好的效果。 <em>Unity</em> 是一个典型的轻量级 <em>IoC Container</em> 。</p>
 <h3 id="NET平台上典型-IoC-Container-推介"><a href="#NET平台上典型-IoC-Container-推介" class="headerlink" title=".NET平台上典型 IoC Container 推介"></a>.NET平台上典型 IoC Container 推介</h3><h4 id="Spring-NET"><a href="#Spring-NET" class="headerlink" title="Spring.NET"></a>Spring.NET</h4><!-- ![11_3.png](https://i.loli.net/2017/09/15/59bbb86a93913.png) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/11.png" class="" title="img113">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/11.png" class="" title="img113">
 
 <p><em>Spring.NET</em> 是 <em>Java</em> 平台上 <em>Spring</em> 对 <em>.NET</em> 平台的移植，使用方法和 <em>Spring</em> 很像，并且功能强大，是 <em>.NET</em> 平台上大中型开发 <em>IoC Container</em> 的首选之一。除了 <em>DI</em> 外，<em>Spring.NET</em> 也包括 <em>AOP</em> 等诸多功能。 <em>Spring.NET</em> 的官方网站是：<a href="http://www.springframework.net/" target="_blank" rel="noopener">http://www.springframework.net/</a></p>
 <h4 id="Unity"><a href="#Unity" class="headerlink" title="Unity"></a>Unity</h4><!-- ![12_3.gif](https://i.loli.net/2017/09/15/59bbb8f4a6954.gif) -->
-<img src="/2017/09/15/those-stories-of-dependency-injection/12.webp" class="" title="img123">
+<img data-src="/2017/09/15/those-stories-of-dependency-injection/12.webp" class="" title="img123">
 
 <p>对于小型项目和讲求敏捷的团队，<em>Spring.NET</em> 可能有点太重量级，那么可以选择轻量级的 <em>Unity</em> 。<em>Unity</em> 是微软 <em>patterns &amp; practices</em> 团队推出的轻量级框架，非常好用，目前最新版本是 1.2。</p>
 <p><em>Unity</em> 的官方网站是：<a href="http://unity.codeplex.com/" target="_blank" rel="noopener">http://unity.codeplex.com/</a></p>
@@ -1164,17 +1164,17 @@
 <p>在 <em>F12</em> 中输入此段 <em>JavaScript</em> 代码，就可以显示各个节点的外部框架。</p>
 <p>效果如下：</p>
 <!-- ![js](https://ooo.0o0.ooo/2017/06/15/594230a99e355.png) -->
-<img src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/js.png" class="" title="js">
+<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/js.png" class="" title="js">
 
 <p>原网站：</p>
 <!-- ![原网站](https://ooo.0o0.ooo/2017/06/15/594230a9285a6.png) -->
-<img src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/%E5%8E%9F%E7%BD%91%E7%AB%99.png" class="" title="原网站">
+<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/%E5%8E%9F%E7%BD%91%E7%AB%99.png" class="" title="原网站">
 
 <h2 id="CSS-方法"><a href="#CSS-方法" class="headerlink" title="CSS 方法"></a>CSS 方法</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line">* &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">0</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">255</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">0</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">255</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br></pre></td></tr></table></figure>
 
 <p>只要在网站中使用这一段 <em>CSS</em> 样式，就能看到如下效果：</p>
 <!-- ![css](https://ooo.0o0.ooo/2017/06/15/594230a9a0f03.png) -->
-<img src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/css.png" class="" title="css">
+<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/css.png" class="" title="css">
 
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>两种方法都有自己的优缺点，<em>JavaScript</em> 的使用方便，但是只能适用于单个网站；而 <em>CSS</em> 样式适用于数量多的网站（只需要在公共 <em>CSS</em> 文件中加入这些代码就可以了）。</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><blockquote>
@@ -1240,7 +1240,7 @@
 </li>
 </ol>
 <!-- ![snipaste_20170610_134835.png](https://ooo.0o0.ooo/2017/06/10/593b8a955e9d7.png) -->
-<img src="/2017/06/10/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%8A%AC%E5%A4%B4.png" class="" title="简历抬头">
+<img data-src="/2017/06/10/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%8A%AC%E5%A4%B4.png" class="" title="简历抬头">
 
 <ol start="3">
 <li><p>HR 最在意的还是你的项目经历，所以这一部分务必认真对待。如果你有多个项目，请不要按照时间来排序，而是按照你在项目中做出的实际贡献来排序。要写出你在此项目中担任的角色，以及负责哪些部分，这些方面才是 HR 真正看中的。你可以把一页纸的大部分就用来描写这些；</p>
@@ -1333,22 +1333,22 @@
 <li><p><a href="https://cnbible.com/proverbs/16-18.htm" target="_blank" rel="noopener">骄傲在败坏以先，狂心在跌倒之前。</a></p>
 </li>
 <li><p>所有的离别，都是我在练习失去你。</p>
-<p><img src="index/%E6%89%80%E6%9C%89%E7%9A%84%E7%A6%BB%E5%88%AB%EF%BC%8C%E9%83%BD%E6%98%AF%E6%88%91%E5%9C%A8%E7%BB%83%E4%B9%A0%E5%A4%B1%E5%8E%BB%E4%BD%A0%E3%80%82.jpg" alt="所有的离别，都是我在练习失去你。"></p>
+<p><img data-src="index/%E6%89%80%E6%9C%89%E7%9A%84%E7%A6%BB%E5%88%AB%EF%BC%8C%E9%83%BD%E6%98%AF%E6%88%91%E5%9C%A8%E7%BB%83%E4%B9%A0%E5%A4%B1%E5%8E%BB%E4%BD%A0%E3%80%82.jpg" alt="所有的离别，都是我在练习失去你。"></p>
 </li>
 <li><p><a href="https://baike.baidu.com/item/%E5%8D%9C%E7%AE%97%E5%AD%90%C2%B7%E5%92%8F%E6%A2%85/124232" target="_blank" rel="noopener">已是悬崖百丈冰，犹有花枝俏。</a></p>
 </li>
 <li><p>Teaching sand to think was a mistake.</p>
-<p><a href="https://www.bilibili.com/video/av87216714?t=949" target="_blank" rel="noopener"><img src="index/Teaching-sand-to-think-was-a-mistake.png" alt="Teaching sand to think was a mistake."></a></p>
+<p><a href="https://www.bilibili.com/video/av87216714?t=949" target="_blank" rel="noopener"><img data-src="index/Teaching-sand-to-think-was-a-mistake.png" alt="Teaching sand to think was a mistake."></a></p>
 </li>
 <li><p><a href="https://weibo.com/1663937380/Is0UJchJW" target="_blank" rel="noopener">一个健康的社会不应该只有一种声音。</a></p>
 </li>
 <li><p>警察只是按要求训诫，主播只是按稿子播报，后台只是按上面意思删帖撤热搜。大家都认为自己是好人，一切是生活所迫。只有当每一个人都敢说“我拒绝撒谎”，“我拒绝执行”的时候，我们才不会在某一天求助无门，走投无路，像狗一样地死去。但你敢吗。你不敢。所以请记得，无论这个世界最终烂成什么样子，都是在我们的默许之下完成的。</p>
-<p><img src="index/%E9%99%88%E7%94%9F%E5%A4%A7%E7%8E%8B.jpg" alt="陈生大王"></p>
+<p><img data-src="index/%E9%99%88%E7%94%9F%E5%A4%A7%E7%8E%8B.jpg" alt="陈生大王"></p>
 </li>
 <li><p><a href="https://www.bilibili.com/video/av77327621?t=140" target="_blank" rel="noopener">那熔铸眼前世界的炉火，他们早已经忘记了。</a></p>
 </li>
 <li><p>Everything will be fine in the end, Morty, And if it isn&apos;t, it&apos;s not the end yet.</p>
-<p><img src="index/Everything-will-be-fine-in-the-end.jpg" alt="Everything-will-be-fine-in-the-end.jpg"></p>
+<p><img data-src="index/Everything-will-be-fine-in-the-end.jpg" alt="Everything-will-be-fine-in-the-end.jpg"></p>
 </li>
 <li><p><a href="https://www.bilibili.com/video/av83908288#reply2270052215" target="_blank" rel="noopener">「轻奢」这个词造得可谓精妙绝伦，是一种市场细分后的修辞手法。比如 100 块的衣服叫「屌丝」，1000 块的叫「奢侈品」，500 块的命名就很讲究了。不能叫「重屌」，而要叫「轻奢」，给人一种我在向社会上层流动的幻觉。</a></p>
 </li>
@@ -1372,7 +1372,7 @@
 <li><p>很抱歉啊，我白天都没什么机会和你说话，只能憋到晚上给你发句晚安。但你可别小看了这两个字，它可包含着我今天清晨见到的阳光，中午看到的白云，傍晚遇见的微风，包含着我这一天每句想对你说的话。晚安。</p>
 </li>
 <li><p>我的眼睛很大很大，装得下高山，装得下大海，装得下蓝天，装得下整个世界；我的眼睛很小很小，有时遇到心事，就连两行泪，也装不下。</p>
-<p><img src="index/%E7%9C%BC%E7%9D%9B.jfif" alt="眼睛"></p>
+<p><img data-src="index/%E7%9C%BC%E7%9D%9B.jfif" alt="眼睛"></p>
 </li>
 <li><p>最痛苦的是什么呢？你恰巧有一点天赋，够你去觊觎天才们那片殿堂，却不够你进入。你在门前徘徊，却敲不开那扇门。你颓然而坐，却隐隐约约听到殿堂内传来一声叹息：「我好菜啊」。</p>
 </li>
@@ -1385,7 +1385,7 @@
 <li><p>前路虽长，尤可期许。</p>
 </li>
 <li><p>每当成年人想要改变生活、逆转状态时，会不约而同做一件事：（再次开始）学英语。</p>
-<p><img src="index/%E6%AF%8F%E5%BD%93%E6%88%90%E5%B9%B4%E4%BA%BA%E6%83%B3%E8%A6%81%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB%E3%80%81%E9%80%86%E8%BD%AC%E7%8A%B6%E6%80%81%E6%97%B6%EF%BC%8C%E4%BC%9A%E4%B8%8D%E7%BA%A6%E8%80%8C%E5%90%8C%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%EF%BC%9A%EF%BC%88%E5%86%8D%E6%AC%A1%E5%BC%80%E5%A7%8B%EF%BC%89%E5%AD%A6%E8%8B%B1%E8%AF%AD%E3%80%82.jpg" alt="每当成年人想要改变生活、逆转状态时，会不约而同做一件事：（再次开始）学英语。"></p>
+<p><img data-src="index/%E6%AF%8F%E5%BD%93%E6%88%90%E5%B9%B4%E4%BA%BA%E6%83%B3%E8%A6%81%E6%94%B9%E5%8F%98%E7%94%9F%E6%B4%BB%E3%80%81%E9%80%86%E8%BD%AC%E7%8A%B6%E6%80%81%E6%97%B6%EF%BC%8C%E4%BC%9A%E4%B8%8D%E7%BA%A6%E8%80%8C%E5%90%8C%E5%81%9A%E4%B8%80%E4%BB%B6%E4%BA%8B%EF%BC%9A%EF%BC%88%E5%86%8D%E6%AC%A1%E5%BC%80%E5%A7%8B%EF%BC%89%E5%AD%A6%E8%8B%B1%E8%AF%AD%E3%80%82.jpg" alt="每当成年人想要改变生活、逆转状态时，会不约而同做一件事：（再次开始）学英语。"></p>
 </li>
 <li><p><a href="https://zh.wikipedia.org/wiki/%E6%9C%A6%E8%83%A7%E8%AF%97#%E5%8C%97%E5%B2%9B" target="_blank" rel="noopener">卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。</a></p>
 </li>
@@ -1400,7 +1400,7 @@
 <li><p>但愿我能给你带来快乐，同时，又反射到我身上。</p>
 </li>
 <li><p>你无法控制其他人的脾气，但你可以保持一颗冷静的头脑。</p>
-<p><img src="index/%E4%BD%A0%E6%97%A0%E6%B3%95%E6%8E%A7%E5%88%B6%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E8%84%BE%E6%B0%94%EF%BC%8C%E4%BD%86%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%BF%9D%E6%8C%81%E4%B8%80%E9%A2%97%E5%86%B7%E9%9D%99%E7%9A%84%E5%A4%B4%E8%84%91%E3%80%82.jpg" alt="你无法控制其他人的脾气，但你可以保持一颗冷静的头脑。"></p>
+<p><img data-src="index/%E4%BD%A0%E6%97%A0%E6%B3%95%E6%8E%A7%E5%88%B6%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E8%84%BE%E6%B0%94%EF%BC%8C%E4%BD%86%E4%BD%A0%E5%8F%AF%E4%BB%A5%E4%BF%9D%E6%8C%81%E4%B8%80%E9%A2%97%E5%86%B7%E9%9D%99%E7%9A%84%E5%A4%B4%E8%84%91%E3%80%82.jpg" alt="你无法控制其他人的脾气，但你可以保持一颗冷静的头脑。"></p>
 </li>
 <li><p>没有你在床真的没什么好赖的。</p>
 </li>
@@ -1440,19 +1440,19 @@
 <li><p>目所能及又岂能是全部呢？</p>
 </li>
 <li><p>怕什么真理无穷，进一寸有进一寸的欢喜。</p>
-<p><img src="index/%E8%83%A1%E9%80%82.jpg" alt="胡适"></p>
+<p><img data-src="index/%E8%83%A1%E9%80%82.jpg" alt="胡适"></p>
 </li>
 <li><p>梦境和死亡，都无定所，无处可去，终将被遗忘，我们身在此处，但没有人会记得，万物皆逝，仅剩夜晚，再见。</p>
-<p><img src="index/%E4%B8%87%E7%89%A9%E7%9A%86%E9%80%9D%EF%BC%8C%E5%94%AF%E6%9C%89%E5%A4%9C%E9%95%BF%E7%95%99%E3%80%82.jpg" alt="万物皆逝，唯有夜长留"></p>
+<p><img data-src="index/%E4%B8%87%E7%89%A9%E7%9A%86%E9%80%9D%EF%BC%8C%E5%94%AF%E6%9C%89%E5%A4%9C%E9%95%BF%E7%95%99%E3%80%82.jpg" alt="万物皆逝，唯有夜长留"></p>
 </li>
 <li><p>口才不好的人，总是在夜晚床上躺着时，才想到当时应该怎样反驳别人的话。</p>
-<p><img src="index/%E5%8F%A3%E6%89%8D%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%80%BB%E6%98%AF%E5%9C%A8%E5%A4%9C%E6%99%9A%E5%BA%8A%E4%B8%8A%E8%BA%BA%E7%9D%80%E6%97%B6%EF%BC%8C%E6%89%8D%E6%83%B3%E5%88%B0%E5%BD%93%E6%97%B6%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8F%8D%E9%A9%B3%E5%88%AB%E4%BA%BA%E7%9A%84%E8%AF%9D%E3%80%82.jpg" alt="口才不好的人，总是在夜晚床上躺着时，才想到当时应该怎样反驳别人的话。"></p>
+<p><img data-src="index/%E5%8F%A3%E6%89%8D%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%80%BB%E6%98%AF%E5%9C%A8%E5%A4%9C%E6%99%9A%E5%BA%8A%E4%B8%8A%E8%BA%BA%E7%9D%80%E6%97%B6%EF%BC%8C%E6%89%8D%E6%83%B3%E5%88%B0%E5%BD%93%E6%97%B6%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7%E5%8F%8D%E9%A9%B3%E5%88%AB%E4%BA%BA%E7%9A%84%E8%AF%9D%E3%80%82.jpg" alt="口才不好的人，总是在夜晚床上躺着时，才想到当时应该怎样反驳别人的话。"></p>
 </li>
 <li><p>遇到喜欢的东西，就把它买下来。钱并不是真的花掉了，只是换一种方式，陪伴在你的身边。</p>
-<p><img src="index/GPU.jpg" alt="遇到喜欢的东西，就把它买下来。钱并不是真的花掉了，只是换一种方式，陪伴在你的身边。"></p>
+<p><img data-src="index/GPU.jpg" alt="遇到喜欢的东西，就把它买下来。钱并不是真的花掉了，只是换一种方式，陪伴在你的身边。"></p>
 </li>
 <li><p>我不看星星，也不说想你。这样星星和你都蒙在鼓里。</p>
-<p><img src="index/%E6%88%91%E4%B8%8D%E7%9C%8B%E6%98%9F%E6%98%9F%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%AF%B4%E6%83%B3%E4%BD%A0%E3%80%82%E8%BF%99%E6%A0%B7%E6%98%9F%E6%98%9F%E5%92%8C%E4%BD%A0%E9%83%BD%E8%92%99%E5%9C%A8%E9%BC%93%E9%87%8C%E3%80%82.jpg" alt="我不看星星，也不说想你。这样星星和你都蒙在鼓里。"></p>
+<p><img data-src="index/%E6%88%91%E4%B8%8D%E7%9C%8B%E6%98%9F%E6%98%9F%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%AF%B4%E6%83%B3%E4%BD%A0%E3%80%82%E8%BF%99%E6%A0%B7%E6%98%9F%E6%98%9F%E5%92%8C%E4%BD%A0%E9%83%BD%E8%92%99%E5%9C%A8%E9%BC%93%E9%87%8C%E3%80%82.jpg" alt="我不看星星，也不说想你。这样星星和你都蒙在鼓里。"></p>
 </li>
 </ul>
 ]]></content>
