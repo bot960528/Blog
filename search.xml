@@ -4,7 +4,7 @@
     <title>设计模式</title>
     <url>/2020/03/26/design-pattern/</url>
     <content><![CDATA[<p>说来惭愧，一直没有好好学这部分的内容，所以趁着这次机会把设计模式这块的知识好好学一下。</p>
-<p>我会使用 C# 来写一些实例代码，并且会将代码放在 GitHub 上面，以供参考。</p>
+<p>我会使用 C# 来写一些实例代码，并且会将代码放在 <a href="https://github.com/AemonCao/DesignPattern" target="_blank" rel="noopener">GitHub</a> 上面，以供参考。</p>
 <a id="more"></a>
 
 <h2 id="什么是设计模式"><a href="#什么是设计模式" class="headerlink" title="什么是设计模式"></a>什么是设计模式</h2><blockquote>
@@ -41,6 +41,9 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>设计模式</category>
+      </categories>
       <tags>
         <tag>C#</tag>
         <tag>设计模式</tag>
@@ -112,6 +115,12 @@
 </li>
 </ul>
 ]]></content>
+      <categories>
+        <category>GitHub</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+      </tags>
   </entry>
   <entry>
     <title>在微信中使用 ToDoList</title>
