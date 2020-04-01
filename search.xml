@@ -143,7 +143,9 @@
 <h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul>
 <li><a href="/2020/03/29/Singleton-Pattern/" title="单例模式（Singleton Pattern）">单例模式（Singleton Pattern）</a>
 </li>
-<li><a href="/2020/03/29/Simple-Factory-Pattern/" title="简单工厂模式（Simple Factory Pattern）">简单工厂模式（Simple Factory Pattern）</a></li>
+<li><a href="/2020/03/29/Simple-Factory-Pattern/" title="简单工厂模式（Simple Factory Pattern）">简单工厂模式（Simple Factory Pattern）</a>
+</li>
+<li><a href="/2020/03/31/Factory-Method-Pattern/" title="工厂方法模式（Factory Method Pattern）">工厂方法模式（Factory Method Pattern）</a></li>
 </ul>
 ]]></content>
       <categories>
@@ -1591,6 +1593,8 @@
     <url>/about/index.html</url>
     <content><![CDATA[<p>关于我什么呢，我也不知道，放一些一直以来收集的骚话吧！</p>
 <ul>
+<li><p><a href="https://en.wikipedia.org/wiki/Robert_Landsburg" target="_blank" rel="noopener"><img data-src="index/Robert-Landsburg-Mt.-St.-Helens.jpg" alt="s"></a></p>
+</li>
 <li><p><a href="https://cnbible.com/matthew/7-3.htm" target="_blank" rel="noopener">为什么看见你弟兄眼中有刺，却不想自己眼中有梁木呢？</a></p>
 </li>
 <li><p>路上没有灯火的时候，就点亮自己的头颅。</p>

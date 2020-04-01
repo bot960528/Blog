@@ -15,7 +15,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 31 Mar 2020 15:01:12 GMT</pubDate>
+    <pubDate>Wed, 01 Apr 2020 07:43:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -91,7 +91,7 @@
       </description>
       
       
-      <content:encoded><![CDATA[<p>说来惭愧，一直没有好好学这部分的内容，所以趁着这次机会把设计模式这块的知识好好学一下。</p><p>我会使用 C# 来写一些实例代码，并且会将代码放在 <a href="https://github.com/AemonCao/DesignPattern" target="_blank" rel="noopener">GitHub</a> 上面，以供参考。</p><a id="more"></a><h2 id="什么是设计模式"><a href="#什么是设计模式" class="headerlink" title="什么是设计模式"></a>什么是设计模式</h2><blockquote><p>在软件工程中，设计模式（design pattern）是对软件设计中普遍存在（反复出现）的各种问题，所提出的解决方案。这个术语是由埃里希·伽玛（Erich Gamma）等人在1990年代从建筑设计领域引入到计算机科学的。</p></blockquote><p>先暂时将 wiki 上的说明拿过来用一下，我相信等我学完之后，可以根据自己的理解再来写一下这个问题：「什么是设计模式？」</p><p>本来是想放到一篇文章里的，但是这样篇幅好像太长了。虽说有目录，但是不太方便手机端的用户，所以还是拆分开来吧。</p><p>这里呢，之后会把设计模式的几大原创写一下，然后放个目录就好啦。</p><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul><li><a href="/2020/03/29/Singleton-Pattern/" title="单例模式（Singleton Pattern）">单例模式（Singleton Pattern）</a></li><li><a href="/2020/03/29/Simple-Factory-Pattern/" title="简单工厂模式（Simple Factory Pattern）">简单工厂模式（Simple Factory Pattern）</a></li></ul>]]></content:encoded>
+      <content:encoded><![CDATA[<p>说来惭愧，一直没有好好学这部分的内容，所以趁着这次机会把设计模式这块的知识好好学一下。</p><p>我会使用 C# 来写一些实例代码，并且会将代码放在 <a href="https://github.com/AemonCao/DesignPattern" target="_blank" rel="noopener">GitHub</a> 上面，以供参考。</p><a id="more"></a><h2 id="什么是设计模式"><a href="#什么是设计模式" class="headerlink" title="什么是设计模式"></a>什么是设计模式</h2><blockquote><p>在软件工程中，设计模式（design pattern）是对软件设计中普遍存在（反复出现）的各种问题，所提出的解决方案。这个术语是由埃里希·伽玛（Erich Gamma）等人在1990年代从建筑设计领域引入到计算机科学的。</p></blockquote><p>先暂时将 wiki 上的说明拿过来用一下，我相信等我学完之后，可以根据自己的理解再来写一下这个问题：「什么是设计模式？」</p><p>本来是想放到一篇文章里的，但是这样篇幅好像太长了。虽说有目录，但是不太方便手机端的用户，所以还是拆分开来吧。</p><p>这里呢，之后会把设计模式的几大原创写一下，然后放个目录就好啦。</p><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul><li><a href="/2020/03/29/Singleton-Pattern/" title="单例模式（Singleton Pattern）">单例模式（Singleton Pattern）</a></li><li><a href="/2020/03/29/Simple-Factory-Pattern/" title="简单工厂模式（Simple Factory Pattern）">简单工厂模式（Simple Factory Pattern）</a></li><li><a href="/2020/03/31/Factory-Method-Pattern/" title="工厂方法模式（Factory Method Pattern）">工厂方法模式（Factory Method Pattern）</a></li></ul>]]></content:encoded>
       
       <comments>http://www.aemon.top/2020/03/26/design-pattern/#disqus_thread</comments>
     </item>
