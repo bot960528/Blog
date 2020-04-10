@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>如何在 Spotify 听没有版权的歌</title>
+    <url>/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/</url>
+    <content><![CDATA[<p>转到 Spotify 好久了，当初是因为音乐版权的原因到 Spotify 的。用了一段时间免费版的，发现还行，就上了车。</p>
+<a id="more"></a>
+
+<p>但是渐渐的发现，外国的月亮也没有很圆，还是有些歌是找不到的。不知道是不是所在区域的原因（我是美区）。但是如果是这个原因，我想我也不会因为个别歌曲去频繁换区。</p>
+<p>之前在网易云，如果有些歌曲没有版权，那么可以在音乐云盘中上传那些歌，这样就可以缓存到各个终端去听了。</p>
+<p>曾经有人夸赞过这个功能：「想出音乐云盘的产品经理真是个天才」。</p>
+<h2 id="程序版本"><a href="#程序版本" class="headerlink" title="程序版本"></a>程序版本</h2><h3 id="PC-端"><a href="#PC-端" class="headerlink" title="PC 端"></a>PC 端</h3><p>1.1.29.592.gf0779179（Windows 10 10.0.18363）</p>
+<h3 id="手机端"><a href="#手机端" class="headerlink" title="手机端"></a>手机端</h3><p>8.5.52.935（IOS 13.4）</p>
+<h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><p>没有特别标注的，默认在 PC 端操作。</p>
+<h3 id="添加本地文件夹"><a href="#添加本地文件夹" class="headerlink" title="添加本地文件夹"></a>添加本地文件夹</h3><p>在 Spotify 也是能听本地音乐的，具体方法如下：</p>
+<p>设置（Settings）-本地文件（Local Files）-添加源（ADD A SOURCE）</p>
+<p>然后选择你存放本地音频文件的文件夹。</p>
+<h3 id="播放本地音乐"><a href="#播放本地音乐" class="headerlink" title="播放本地音乐"></a>播放本地音乐</h3><p>在侧边栏你的音乐库（YOUR LIBRARY）选择本地文件（Local Files）；</p>
+<p>这时候你只要右键需要同步的歌曲，选择添加到播放列表（Add to Playlist），然后选择一个播放列表（Playlist）就可以了。之后你就能在各个终端听了。</p>
+<img data-src="/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/2020-04-10.png" class="" title="2020-04-10.png">
+
+<p>但是，如果这时候你想要给这首歌打上赞（Like），加入到已按赞的歌曲（Liked Songs）却是不行。</p>
+<p>这时你需要播放你这首歌曲。</p>
+<h3 id="打开手机-APP"><a href="#打开手机-APP" class="headerlink" title="打开手机 APP"></a>打开手机 APP</h3><p>因为 Spotify 只允许一个终端播放，所以你的 APP 会跳出这个提示：</p>
+<img data-src="/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/APP-PLAY.png" class="" title="APP-PLAY.png">
+
+<p>点击继续，然后打开播放页：</p>
+<img data-src="/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/PLAY.png" class="" title="PLAY.png">
+
+<p>这时你会发现在手机 APP 上是有心形按钮的，你只需要点击一下，虽然点击之后，在当前界面没有显示标记为赞。</p>
+<p>但是，当你去到已按赞的歌曲（Liked Songs），就能看到这首歌了。</p>
+<img data-src="/2020/04/10/%E5%A6%82%E4%BD%95%E5%9C%A8-Spotify-%E5%90%AC%E6%B2%A1%E6%9C%89%E7%89%88%E6%9D%83%E7%9A%84%E6%AD%8C/Liked-Songs.png" class="" title="Liked-Songs.png">
+
+<p>一般我都是将所有的歌曲下载的。</p>
+<p>这时在所有的终端就都可以听这首歌了。</p>
+]]></content>
+      <categories>
+        <category>奇技淫巧</category>
+      </categories>
+      <tags>
+        <tag>奇技淫巧</tag>
+        <tag>Spotify</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>工厂方法模式（Factory Method Pattern）</title>
     <url>/2020/03/31/Factory-Method-Pattern/</url>
     <content><![CDATA[<p>工厂方法模式的目的是：</p>
