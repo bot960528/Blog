@@ -157,7 +157,7 @@
 <p>在 Python 中，我发现的最好的 API 框架之一是 <a href="https://falconframework.org" target="_blank" rel="noopener">Falcon</a>。它与 Flask 一样简单易用，非常快，并且非常适合在几分钟内构建 REST API。</p>
 <!-- ![Falcon: Unburdening APIs for over 0.0564 centuries.](restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png) -->
 
-<img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-json.png" class="" title="Falcon: Unburdening APIs for over 0.0564 centuries.">
+<img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png" class="" title="Falcon: Unburdening APIs for over 0.0564 centuries.">
 
 <p>如果你使用的是 Django，那么转到 <a href="http://www.django-rest-framework.org" target="_blank" rel="noopener">Django REST Framework</a> 即可。它不是那么直观，但是功能强大。</p>
 <p>在 NodeJS 中，尽管我尚未尝试过 <a href="http://restify.com" target="_blank" rel="noopener">Restify</a>，但它似乎也是一个不错的选择。</p>
