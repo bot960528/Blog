@@ -675,7 +675,7 @@
 <li>用户是否未提供身份验证凭据？他们无效吗？👉 <code>401 Unauthorized</code>。</li>
 <li>用户是否已正确验证身份，但没有访问资源所需的权限？👉 <code>403 Forbidden</code>。</li>
 </ul>
-<h2 id="充分利用-202-Accepted"><a href="#充分利用-202-Accepted" class="headerlink" title="充分利用 202 Accepted"></a>充分利用 <code>202 Accepted</code></h2><p>我发现 <code>202 Accepted</code> 被用来代替 <code>201 202 Accepted</code> 是非常方便的。它的意思是：</p>
+<h2 id="充分利用-202-Accepted"><a href="#充分利用-202-Accepted" class="headerlink" title="充分利用 202 Accepted"></a>充分利用 <code>202 Accepted</code></h2><p>我发现 <code>202 Accepted</code> 被用来代替 <code>201 Created</code> 是非常方便的。它的意思是：</p>
 <blockquote>
 <p>我，服务器，已经理解了你的请求。我还没有创建资源，但这很好（指这不是一个错误）。</p>
 </blockquote>
