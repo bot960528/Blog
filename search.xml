@@ -29,6 +29,13 @@
 <td align="left">-</td>
 </tr>
 <tr>
+<td align="left">array</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">数组</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">authentication</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -40,6 +47,24 @@
 <td align="left">-</td>
 <td align="left">Noun</td>
 <td align="left">授权</td>
+<td align="left">-</td>
+</tr>
+</tbody></table>
+<h3 id="D"><a href="#D" class="headerlink" title="D"></a>D</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Meaning</th>
+<th align="left">Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">description</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">描述</td>
 <td align="left">-</td>
 </tr>
 </tbody></table>
@@ -102,6 +127,13 @@
 <td align="left">Noun</td>
 <td align="left">槽；排水沟</td>
 <td align="left"><a href="https://element.eleme.cn/#/zh-CN/component/layout#row-attributes" target="_blank" rel="noopener">https://element.eleme.cn/#/zh-CN/component/layout#row-attributes</a></td>
+</tr>
+<tr>
+<td align="left">GNU</td>
+<td align="left">GNU’s Not Unix!</td>
+<td align="left">Noun</td>
+<td align="left">一个自由的操作系统</td>
+<td align="left">-</td>
 </tr>
 </tbody></table>
 <h3 id="H"><a href="#H" class="headerlink" title="H"></a>H</h3><table>
@@ -182,6 +214,13 @@
 <td align="left">原型</td>
 <td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Prototype" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Glossary/Prototype</a></td>
 </tr>
+<tr>
+<td align="left">public</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">公开；公共</td>
+<td align="left">-</td>
+</tr>
 </tbody></table>
 <h3 id="R"><a href="#R" class="headerlink" title="R"></a>R</h3><table>
 <thead>
@@ -194,11 +233,25 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">request</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">请求</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">resolve</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
 <td align="left">解决</td>
 <td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve</a></td>
+</tr>
+<tr>
+<td align="left">response</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">响应</td>
+<td align="left">-</td>
 </tr>
 </tbody></table>
 <h3 id="S"><a href="#S" class="headerlink" title="S"></a>S</h3><table>
@@ -215,7 +268,7 @@
 <td align="left">schema</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
-<td align="left">架构 (数据库)</td>
+<td align="left">架构（数据库）</td>
 <td align="left">-</td>
 </tr>
 </tbody></table>
