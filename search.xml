@@ -222,6 +222,24 @@
 <td align="left">-</td>
 </tr>
 </tbody></table>
+<h3 id="M"><a href="#M" class="headerlink" title="M"></a>M</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Meaning</th>
+<th align="left">Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">MVVM</td>
+<td align="left">Model–view–viewmodel</td>
+<td align="left">Noun</td>
+<td align="left">模型，视图，视图模型，一种软件架构模式</td>
+<td align="left">-</td>
+</tr>
+</tbody></table>
 <h3 id="P"><a href="#P" class="headerlink" title="P"></a>P</h3><table>
 <thead>
 <tr>
@@ -270,6 +288,13 @@
 <td align="left">Noun</td>
 <td align="left">请求</td>
 <td align="left">-</td>
+</tr>
+<tr>
+<td align="left">required</td>
+<td align="left">-</td>
+<td align="left">Adjective</td>
+<td align="left">需要</td>
+<td align="left"><a href="https://cn.vuejs.org/v2/api/#props" target="_blank" rel="noopener">https://cn.vuejs.org/v2/api/#props</a></td>
 </tr>
 <tr>
 <td align="left">resolve</td>
