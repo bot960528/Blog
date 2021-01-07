@@ -82,7 +82,24 @@
 <td align="left">-</td>
 </tr>
 </tbody></table>
-<h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3><p> Word | Unabbreviated | <a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a> | Meaning | Source |<br>| :— | :———— | :————- | :—— | :—– |<br>| cursor | - | Noun | 光标 | <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor</a> |</p>
+<h3 id="C"><a href="#C" class="headerlink" title="C"></a>C</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Meaning</th>
+<th align="left">Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">cursor</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">光标</td>
+<td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/CSS/cursor</a></td>
+</tr>
+</tbody></table>
 <h3 id="D"><a href="#D" class="headerlink" title="D"></a>D</h3><table>
 <thead>
 <tr>
