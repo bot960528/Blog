@@ -315,6 +315,13 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">reject</td>
+<td align="left">-</td>
+<td align="left">Verb</td>
+<td align="left">拒绝</td>
+<td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/reject" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise/reject</a></td>
+</tr>
+<tr>
 <td align="left">replicate</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -3178,6 +3185,8 @@
     <url>/about/index.html</url>
     <content><![CDATA[<p>关于我什么呢，我也不知道，放一些一直以来收集的骚话吧！</p>
 <ul>
+<li><p><a href="https://www.bilibili.com/video/BV1co4y1o7Xg?t=36" target="_blank" rel="noopener">人生唯一确定的就是不确定的人生。</a></p>
+</li>
 <li><p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io/about/index/positive.jpg" alt="positive"></p>
 </li>
 <li><p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io/about/index/Dementors_Black_Lake.jpg" alt="Dementors_Black_Lake"></p>
