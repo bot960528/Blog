@@ -118,6 +118,13 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">dequeue</td>
+<td align="left">-</td>
+<td align="left">Verb</td>
+<td align="left">出队</td>
+<td align="left"><a href="https://docs.microsoft.com/zh-cn/dotnet/api/system.collections.queue.dequeue" target="_blank" rel="noopener">https://docs.microsoft.com/zh-cn/dotnet/api/system.collections.queue.dequeue</a></td>
+</tr>
+<tr>
 <td align="left">description</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -242,6 +249,13 @@
 <td align="left">接口</td>
 <td align="left">-</td>
 </tr>
+<tr>
+<td align="left">invoke</td>
+<td align="left">-</td>
+<td align="left">Verb</td>
+<td align="left">调用</td>
+<td align="left">-</td>
+</tr>
 </tbody></table>
 <h3 id="J"><a href="#J" class="headerlink" title="J"></a>J</h3><table>
 <thead>
@@ -309,6 +323,24 @@
 <td align="left">Noun</td>
 <td align="left">公开；公共</td>
 <td align="left">-</td>
+</tr>
+</tbody></table>
+<h3 id="Q"><a href="#Q" class="headerlink" title="Q"></a>Q</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Meaning</th>
+<th align="left">Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">queue</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">队列</td>
+<td align="left"><a href="https://docs.microsoft.com/zh-cn/dotnet/api/system.collections.queue" target="_blank" rel="noopener">https://docs.microsoft.com/zh-cn/dotnet/api/system.collections.queue</a></td>
 </tr>
 </tbody></table>
 <h3 id="R"><a href="#R" class="headerlink" title="R"></a>R</h3><table>
@@ -405,6 +437,24 @@
 <td align="left">Noun</td>
 <td align="left">目标；靶；指标</td>
 <td align="left">-</td>
+</tr>
+</tbody></table>
+<h3 id="V"><a href="#V" class="headerlink" title="V"></a>V</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Meaning</th>
+<th align="left">Source</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">volatile</td>
+<td align="left">-</td>
+<td align="left">Adjective</td>
+<td align="left">易变的</td>
+<td align="left"><a href="https://docs.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/volatile" target="_blank" rel="noopener">https://docs.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/volatile</a></td>
 </tr>
 </tbody></table>
 ]]></content>
