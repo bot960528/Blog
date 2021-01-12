@@ -50,6 +50,13 @@
 <td align="left">-</td>
 </tr>
 <tr>
+<td align="left">attribute</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">属性</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">authentication</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -75,6 +82,13 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">back-end</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">后端</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">BDFL</td>
 <td align="left">Benevolent Dictator For Life</td>
 <td align="left">Noun</td>
@@ -100,11 +114,25 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">charset</td>
+<td align="left">character set</td>
+<td align="left">Noun</td>
+<td align="left">字符集</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">commit</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
 <td align="left">承诺</td>
 <td align="left"><a href="https://git-scm.com/docs/git-commit" target="_blank" rel="noopener">https://git-scm.com/docs/git-commit</a></td>
+</tr>
+<tr>
+<td align="left">content</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">内容</td>
+<td align="left">-</td>
 </tr>
 <tr>
 <td align="left">cursor</td>
@@ -181,6 +209,13 @@
 <td align="left">过滤器；筛选器</td>
 <td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/filter</a></td>
 </tr>
+<tr>
+<td align="left">front-end</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">前端</td>
+<td align="left">-</td>
+</tr>
 </tbody></table>
 <h3 id="G"><a href="#G" class="headerlink" title="G"></a>G</h3><table>
 <thead>
@@ -237,6 +272,13 @@
 <td align="left">Noun</td>
 <td align="left">超文本咖啡壶控制协议</td>
 <td align="left"><a href="https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E5%92%96%E5%95%A1%E5%A3%B6%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E5%92%96%E5%95%A1%E5%A3%B6%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE</a></td>
+</tr>
+<tr>
+<td align="left">HTML</td>
+<td align="left">Hyper Text Markup Language</td>
+<td align="left">Noun</td>
+<td align="left">超文本标记语言</td>
+<td align="left">-</td>
 </tr>
 </tbody></table>
 <h3 id="I"><a href="#I" class="headerlink" title="I"></a>I</h3><table>
@@ -407,7 +449,7 @@
 <td align="left">-</td>
 <td align="left">Verb</td>
 <td align="left">复现（BUG）</td>
-<td align="left"></td>
+<td align="left">-</td>
 </tr>
 <tr>
 <td align="left">request</td>
@@ -463,6 +505,13 @@
 <td align="left">-</td>
 </tr>
 <tr>
+<td align="left">stack</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">堆栈；栈区</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">symbol</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -499,6 +548,13 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">vanilla</td>
+<td align="left">-</td>
+<td align="left">Adjective</td>
+<td align="left">普遍的；寻常的</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">volatile</td>
 <td align="left">-</td>
 <td align="left">Adjective</td>
