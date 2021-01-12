@@ -22,6 +22,13 @@
 <td align="left">Windows 默认管理员用户名称。</td>
 </tr>
 <tr>
+<td align="left">AJAX</td>
+<td align="left">Asynchronous JavaScript and XML</td>
+<td align="left">Noun</td>
+<td align="left">异步的 JavaScript 与 XML 技术</td>
+<td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/Guide/AJAX/Getting_Started#%E4%BB%80%E4%B9%88%E6%98%AFajax%EF%BC%9F" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/Guide/AJAX/Getting_Started#%E4%BB%80%E4%B9%88%E6%98%AFajax%EF%BC%9F</a></td>
+</tr>
+<tr>
 <td align="left">analyze</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -131,6 +138,13 @@
 <td align="left">描述</td>
 <td align="left">-</td>
 </tr>
+<tr>
+<td align="left">DOM</td>
+<td align="left">Document Object Model</td>
+<td align="left">Noun</td>
+<td align="left">文档对象模型</td>
+<td align="left">-</td>
+</tr>
 </tbody></table>
 <h3 id="E"><a href="#E" class="headerlink" title="E"></a>E</h3><table>
 <thead>
@@ -216,6 +230,13 @@
 <td align="left">Noun</td>
 <td align="left">处理程序</td>
 <td align="left">-</td>
+</tr>
+<tr>
+<td align="left">HTCPCP</td>
+<td align="left">Hyper Text Coffee Pot Control Protocol</td>
+<td align="left">Noun</td>
+<td align="left">超文本咖啡壶控制协议</td>
+<td align="left"><a href="https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E5%92%96%E5%95%A1%E5%A3%B6%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE" target="_blank" rel="noopener">https://zh.wikipedia.org/wiki/%E8%B6%85%E6%96%87%E6%9C%AC%E5%92%96%E5%95%A1%E5%A3%B6%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE</a></td>
 </tr>
 </tbody></table>
 <h3 id="I"><a href="#I" class="headerlink" title="I"></a>I</h3><table>
@@ -304,6 +325,27 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">padding</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">内边距，填充</td>
+<td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/padding" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/CSS/padding</a></td>
+</tr>
+<tr>
+<td align="left">prerequisite</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">先决条件</td>
+<td align="left">-</td>
+</tr>
+<tr>
+<td align="left">prevent</td>
+<td align="left">-</td>
+<td align="left">Verb</td>
+<td align="left">避免；防止</td>
+<td align="left"><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Event/preventDefault" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/API/Event/preventDefault</a></td>
+</tr>
+<tr>
 <td align="left">primary</td>
 <td align="left">-</td>
 <td align="left">Adjective</td>
@@ -411,6 +453,13 @@
 <td align="left">-</td>
 <td align="left">Noun</td>
 <td align="left">架构（数据库）</td>
+<td align="left">-</td>
+</tr>
+<tr>
+<td align="left">SPA</td>
+<td align="left">single-page application</td>
+<td align="left">Noun</td>
+<td align="left">单页应用</td>
 <td align="left">-</td>
 </tr>
 <tr>
