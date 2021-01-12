@@ -795,9 +795,8 @@
 <p>Q: They installed this thing on the ceiling of my apartment building. The green light makes a buzz sound with each flash</p>
 </blockquote>
 <p>他们在我公寓的天花板上安装了这个。绿灯每闪一次就发出嗡嗡声。</p>
-<!-- ![杀虫](https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/whatisthisthing-5/杀虫.jpg) -->
-
-<img data-src="/2020/12/25/whatisthisthing-5/%E6%9D%80%E8%99%AB.jpg" class="杀虫">
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/whatisthisthing-5/%E6%9D%80%E8%99%AB.jpg" alt="杀虫"></p>
+<!-- <img data-src="/2020/12/25/whatisthisthing-5/%E6%9D%80%E8%99%AB.jpg" class="杀虫"> -->
 
 <blockquote>
 <p>A: It’s called the Pestinator 360. It repels insects and rodents. A rather janky install for a ceiling though. <a href="https://www.amazon.com/gp/aw/d/B06ZY79XLC/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8" target="_blank" rel="noopener">https://www.amazon.com/gp/aw/d/B06ZY79XLC/ref=cm_cr_arp_mb_bdcrb_top?ie=UTF8</a></p>
@@ -1027,11 +1026,13 @@
 <p><strong>重要提示</strong>：你可以用 Firefox 很容易的验证一个响应（reponse）的 <code>Content-Type</code>。它为响应内置了 <code>Content-Type: application/json</code> 的漂亮提示。🔥</p>
 <!-- ![在Firefox中，“内容类型：文本/纯文本”看起来很普通。](restful-api-design-13-best-practices-to-make-your-users-happy/restapi-plain.png) -->
 
-<img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-plain.png" class="" title="在Firefox中，“内容类型：文本&#x2F;纯文本”看起来很普通。">
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-plain.png" alt="在Firefox中，“内容类型：文本/纯文本”看起来很普通。"></p>
+<!-- <img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-plain.png" class="" title="在Firefox中，“内容类型：文本&#x2F;纯文本”看起来很普通。"> -->
 
 <!-- ![检测到“内容类型：application / json”！看这是多么的漂亮和实用。🕺](restful-api-design-13-best-practices-to-make-your-users-happy/restapi-json.png) -->
 
-<img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-json.png" class="" title="检测到“内容类型：application &#x2F; json”！看这是多么的漂亮和实用。🕺">
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-json.png" alt="检测到“内容类型：application / json”！看这是多么的漂亮和实用。🕺"></p>
+<!-- <img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/restapi-json.png" class="" title="检测到“内容类型：application &#x2F; json”！看这是多么的漂亮和实用。🕺"> -->
 
 <h2 id="避免在-URI-中使用动词"><a href="#避免在-URI-中使用动词" class="headerlink" title="避免在 URI 中使用动词"></a>避免在 URI 中使用动词</h2><p>如果你已经了解了基础知识，那么你现在就会知道在 URI 中加入动词是<strong>不 RESTful</strong> 的。</p>
 <p>这是因为 <strong>HTTP 的请求方法应该足以描述在资源上执行的操作</strong>。</p>
@@ -1152,12 +1153,13 @@
 <p>在 Python 中，我发现的最好的 API 框架之一是 <a href="https://falconframework.org" target="_blank" rel="noopener">Falcon</a>。它与 Flask 一样简单易用，非常快，并且非常适合在几分钟内构建 REST API。</p>
 <!-- ![Falcon: Unburdening APIs for over 0.0564 centuries.](restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png) -->
 
-<img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png" class="" title="Falcon: Unburdening APIs for over 0.0564 centuries.">
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png" alt="Falcon: Unburdening APIs for over 0.0564 centuries."></p>
+<!-- <img data-src="/2020/12/14/restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png" class="" title="Falcon: Unburdening APIs for over 0.0564 centuries."> -->
 
 <p>如果你使用的是 Django，那么转到 <a href="http://www.django-rest-framework.org" target="_blank" rel="noopener">Django REST Framework</a> 即可。它不是那么直观，但是功能强大。</p>
 <p>在 NodeJS 中，尽管我尚未尝试过 <a href="http://restify.com" target="_blank" rel="noopener">Restify</a>，但它似乎也是一个不错的选择。</p>
 <p>我强烈建议你尝试一下这些框架！它们将帮助你构建美观，优雅且设计良好的 REST API。</p>
-<h2 id="让我们给-REST-一个好名声！"><a href="#让我们给-REST-一个好名声！" class="headerlink" title="让我们给 REST 一个好名声！"></a>让我们给 REST 一个好名声！</h2><p>我们都应该努力使 API 成为一种使用乐趣。希望本文能够帮助你学习一些技巧和技术，以构建<strong>更好的 REST API</strong>。对我而言，它归结为<strong>良好的语义</strong>，<strong>简单性</strong>和常识。</p>
+<h2 id="让我们给-REST-一个好名声"><a href="#让我们给-REST-一个好名声" class="headerlink" title="让我们给 REST 一个好名声"></a>让我们给 REST 一个好名声</h2><p>我们都应该努力使 API 成为一种使用乐趣。希望本文能够帮助你学习一些技巧和技术，以构建<strong>更好的 REST API</strong>。对我而言，它归结为<strong>良好的语义</strong>，<strong>简单性</strong>和常识。</p>
 <p>REST API 设计是一门手艺。如果你对以上几点有不同的看法，我很乐意听听。</p>
 <p>在此期间，请持续提供优质的API！💻</p>
 <hr>
@@ -2105,7 +2107,8 @@
 
 <p>当前只有一条记录，如果添加了多个子项目，则会有多条记录。</p>
 <p>之后在 Visual Studio Code 的「源代码管理页面」的「源代码管理提供程序」中就会出现两个项目，一个是主项目，一个就是刚刚添加的子项目。</p>
-<img data-src="/2020/03/11/Linux%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E6%8F%90%E4%BE%9B%E7%A8%8B%E5%BA%8F.png" class="" title="源代码管理提供程序">
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Linux%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E6%8F%90%E4%BE%9B%E7%A8%8B%E5%BA%8F.png" alt="源代码管理提供程序"></p>
+<!-- <img data-src="/2020/03/11/Linux%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%AE%A1%E7%90%86%E6%8F%90%E4%BE%9B%E7%A8%8B%E5%BA%8F.png" class="" title="源代码管理提供程序"> -->
 
 <p>现在你就可以更好得管理这两个项目了。</p>
 <p>此时在 GitHub 上，你的主项目中相应的<a href="https://github.com/AemonCao/AemonCao.github.io/tree/source/themes" target="_blank" rel="noopener">子项目文件夹</a>也会有一个指向原仓库的某一次提交的一个链接。</p>
@@ -2144,13 +2147,17 @@
 </li>
 <li><p>安装完成后，你的左侧边栏就会多出一个「远程资源管理器（Remote Explorer）」的图标，如下图所示：</p>
  <!-- ![Remote Explorer](https://i.loli.net/2020/03/08/YXuTfDQxovHUkNm.png) -->
- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/RemoteExplorer.png" class="" title="RemoteExplorer">
+
+<p> <img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/RemoteExplorer.png" alt="RemoteExplorer"></p>
+ <!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/RemoteExplorer.png" class="" title="RemoteExplorer"> -->
 
 </li>
 </ol>
 <h2 id="开始使用"><a href="#开始使用" class="headerlink" title="开始使用"></a>开始使用</h2><h3 id="进行连接"><a href="#进行连接" class="headerlink" title="进行连接"></a>进行连接</h3><p>点击远程资源管理器图标，在 SSH TARGETS 栏中点击加号，来新建一个 ssh 连接：</p>
 <!-- ![SSH TARGETS](https://i.loli.net/2020/03/08/mlqFf1N9nuxRaEp.png) -->
-<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/SSHTARGETS.png" class="" title="SSHTARGETS">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/SSHTARGETS.png" alt="SSHTARGETS"></p>
+<!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/SSHTARGETS.png" class="" title="SSHTARGETS"> -->
 
 <p>输入：</p>
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">ssh user@host</span><br></pre></td></tr></table></figure>
@@ -2163,33 +2170,45 @@
 <p>回车，然后选择一个配置文件进行保存。</p>
 <p>这时候在左侧 SSH TARGETS 下将会出现以你的 host 为名称的项目，右键选择在连接当前窗口或者在新窗口，进行连接。</p>
 <!-- ![password.png](https://i.loli.net/2020/03/08/jXhLQ2UgY5Gwl3f.png) -->
-<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/password.png" class="" title="password">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/password.png" alt="password"></p>
+<!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/password.png" class="" title="password"> -->
 
 <p>输入当前用户名所对应的密码。</p>
 <p>这时你的窗口左下角将会将会显示正在连接：</p>
 <!-- ![Opening](https://i.loli.net/2020/03/08/Fa6xRzThrIsEYUN.png) -->
-<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/Opening.png" class="" title="Opening">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/Opening.png" alt="Opening"></p>
+<!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/Opening.png" class="" title="Opening"> -->
 
 <p>等待一段时间后。如果变成以下样式，则为连接成功：</p>
 <!-- ![success.png](https://i.loli.net/2020/03/08/v6jDnFKbcJPWLRl.png) -->
-<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/success.png" class="" title="success">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/success.png" alt="success"></p>
+<!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/success.png" class="" title="success"> -->
 
 <h3 id="选择文件夹"><a href="#选择文件夹" class="headerlink" title="选择文件夹"></a>选择文件夹</h3><p>连接成功后，你要选择需要进行工作的文件夹，基本上是一个项目的根目录。</p>
 <ol start="0">
 <li><p>点击左侧边栏的 Expoler（或者使用快捷键 Ctrl+Shift+E）打开资源管理器：</p>
  <!-- ![expoler.png](https://i.loli.net/2020/03/08/Tltvb9aLrmq67CI.png) -->
- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/expoler.png" class="" title="expoler">
+
+<p> <img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/expoler.png" alt="expoler"></p>
+ <!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/expoler.png" class="" title="expoler"> -->
 </li>
 <li><p>点击 Open Folder 按钮来选择文件夹：</p>
  <!-- ![open-folder.png](https://i.loli.net/2020/03/08/2JU7CYA5i6T1Fzc.png) -->
- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/open-folder.png" class="" title="open-folder">
+
+<p> <img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/open-folder.png" alt="open-folder"></p>
+ <!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/open-folder.png" class="" title="open-folder"> -->
 </li>
 <li><p>点击 OK，这时可能需要你再次输入密码，之后你的资源管理器中就会有选择文件夹下的文件了。</p>
 </li>
 </ol>
 <h3 id="权限修改"><a href="#权限修改" class="headerlink" title="权限修改"></a>权限修改</h3><p>这时候你已经可以点击任意一个文件来进行预览了，为什么说是预览呢，因为当你尝试编辑并保存时，系统会有如下警告：</p>
 <!-- ![error.png](https://i.loli.net/2020/03/08/BemOgUkIxCsjPrh.png) -->
-<img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/error.png" class="" title="error">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/Remote-development-in-Visual-Studio-Code/error.png" alt="error"></p>
+<!-- <img data-src="/2020/03/08/Remote-development-in-Visual-Studio-Code/error.png" class="" title="error"> -->
 
 <p>提示权限不够。</p>
 <p>最简单的方法是执行以下命令：</p>
@@ -2854,7 +2873,9 @@
 
 <h2 id="IGame-游戏公司的故事"><a href="#IGame-游戏公司的故事" class="headerlink" title="IGame 游戏公司的故事"></a>IGame 游戏公司的故事</h2><h3 id="讨论会"><a href="#讨论会" class="headerlink" title="讨论会"></a>讨论会</h3><p>话说有一个叫 IGame 的游戏公司，正在开发一款 ARPG 游戏（动作&amp;角色扮演类游戏，如魔兽世界、梦幻西游这一类的游戏）。一般这类游戏都有一个基本的功能，就是打怪（玩家攻击怪物，借此获得经验、虚拟货币和虚拟装备），并且根据玩家角色所装备的武器不同，攻击效果也不同。这天，IGame 公司的开发小组正在开会对打怪功能中的某一个功能点如何实现进行讨论，他们面前的大屏幕上是这样一份需求描述的 PPT：</p>
 <!-- ![01_3.gif](https://i.loli.net/2017/09/15/59bb9d3e3a3c1.gif) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/1.webp" class="" title="PPT">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/1.webp" alt="PPT"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/1.webp" class="" title="PPT"> -->
 
 <p>图1.1 需求描述ppt</p>
 <p>各个开发人员，面对这份需求，展开了热烈的讨论，下面我们看看讨论会上都发生了什么。</p>
@@ -2867,7 +2888,9 @@
 
 <p>程序运行结果如下：</p>
 <!-- ![02_3.gif](https://i.loli.net/2017/09/15/59bbae64f08ba.gif) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/2.webp" class="" title="结果023">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/2.webp" alt="结果023"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/2.webp" class="" title="结果023"> -->
 
 <p>图1.2 小李程序的运行结果</p>
 <h3 id="架构师的建议"><a href="#架构师的建议" class="headerlink" title="架构师的建议"></a>架构师的建议</h3><p>小李阐述完自己的想法并演示了 Demo 后，项目组长 Peter 首先肯定了小李的思考能力、编程能力以及初步的面向对象分析与设计的思想，并承认小李的程序正确完成了需求中的功能。但同时，Peter 也指出小李的设计存在一些问题，他请小于讲一下自己的看法。 小于是一名有五年软件架构经验的架构师，对软件架构、设计模式和面向对象思想有较深入的认识。他向 Peter 点了点头，发表了自己的看法： “小李的思考能力是不错的，有着基本的面向对象分析设计能力，并且程序正确完成了所需要的功能。不过，这里我想从架构角度，简要说一下我认为这个设计中存在的问题。 首先，小李设计的 <code>Role</code> 类的 <code>Attack</code> 方法很长，并且方法中有一个冗长的 <code>if…else</code> 结构，且每个分支的代码的业务逻辑很相似，只是很少的地方不同。 再者，我认为这个设计比较大的一个问题是，违反了 OCP 原则。在这个设计中，如果以后我们增加一个新的武器，如倚天剑，每次攻击损失 500HP，那么，我们就要打开 <code>Role</code>，修改 <code>Attack</code> 方法。而我们的代码应该是对修改关闭的，当有新武器加入的时候，应该使用扩展完成，避免修改已有代码。 一般来说，当一个方法里面出现冗长的 <code>if…else</code> 或 <code>switch…case</code> 结构，且每个分支代码业务相似时，往往预示这里应该引入多态性来解决问题。而这里，如果把不同武器攻击看成一个策略，那么引入策略模式（ <em>Strategy Pattern</em> ）是明智的选择。 最后说一个小的问题，被攻击后，减HP、死亡判断等都是怪物的职责，这里放在 <code>Role</code> 中有些不当。”</p>
@@ -2876,7 +2899,9 @@
 </blockquote>
 <p>小于边说，边画了一幅 UML 类图，用于直观表示他的思想：、</p>
 <!-- ![03_3.jpg](https://i.loli.net/2017/09/15/59bbaf77f3db6.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/3.webp" class="" title="uml类图">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/3.webp" alt="uml类图"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/3.webp" class="" title="uml类图"> -->
 
 <p>图1.3 小于的设计</p>
 <p>Peter 让小李按照小于的设计重构 Demo，小李看了看小于的设计图，很快完成。相关代码如下：</p>
@@ -2902,7 +2927,9 @@
 <h3 id="依赖注入的类别"><a href="#依赖注入的类别" class="headerlink" title="依赖注入的类别"></a>依赖注入的类别</h3><p>依赖注入有很多种方法，上面看到的例子中，只是其中的一种，下面分别讨论不同的依赖注入类型。</p>
 <h4 id="Setter-注入"><a href="#Setter-注入" class="headerlink" title="Setter 注入"></a>Setter 注入</h4><p>第一种依赖注入的方式，就是 Setter 注入，上面的例子中，将武器注入 <code>Role</code> 就是 Setter 注入。正式点说： Setter 注入（ <em>Setter Injection</em> ）是指在客户类中，设置一个服务类接口类型的数据成员，并设置一个 <code>Set</code> 方法作为注入点，这个 <code>Set</code> 方法接受一个具体的服务类实例为参数，并将它赋给服务类接口类型的数据成员。</p>
 <!-- ![04_6.jpg](https://i.loli.net/2017/09/15/59bbb21e689a0.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/4.webp" class="" title="img046">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/4.webp" alt="img046"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/4.webp" class="" title="img046"> -->
 
 <p>图3.1 Setter注入示意</p>
 <p>上图展示了Setter注入的结构示意图，客户类 <code>ClientClass</code> 设置 <code>IServiceClass</code> 类型成员 <code>_serviceImpl</code>，并设置 <code>Set_ServiceImpl</code> 方法作为注入点。<code>Context</code> 会负责实例化一个具体的 <code>ServiceClass</code>，然后注入到 <code>ClientClass</code> 里。 下面给出 Setter 注入的示例代码：</p>
@@ -2918,12 +2945,16 @@
 
 <p>运行结果如下：</p>
 <!-- ![05_3.jpg](https://i.loli.net/2017/09/15/59bbb2c0e0be7.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/5.jpg" class="" title="结果053">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/5.jpg" alt="结果053"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/5.jpg" class="" title="结果053"> -->
 
 <p>图3.2 Setter注入运行结果</p>
 <h4 id="构造注入"><a href="#构造注入" class="headerlink" title="构造注入"></a>构造注入</h4><p>另外一种依赖注入方式，是通过客户类的构造函数，向客户类注入服务类实例。 构造注入（ <em>Constructor Injection</em> ）是指在客户类中，设置一个服务类接口类型的数据成员，并以构造函数为注入点，这个构造函数接受一个具体的服务类实例为参数，并将它赋给服务类接口类型的数据成员。</p>
 <!-- ![06_3.jpg](https://i.loli.net/2017/09/15/59bbb3267fef0.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/6.webp" class="" title="img063">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/6.webp" alt="img063"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/6.webp" class="" title="img063"> -->
 
 <p>图3.3 构造注入示意</p>
 <p>图3.3是构造注入的示意图，可以看出，与 Setter 注入很类似，只是注入点由 Setter 方法变成了构造方法。这里要注意，由于构造注入只能在实例化客户类时注入一次，所以一点注入，程序运行期间是没法改变一个客户类对象内的服务类实例的。 由于构造注入和 Setter 注入的 <code>IServiceClass</code>，<code>ServiceClassA</code> 和 <code>ServiceClassB</code> 是一样的，所以这里给出另外 <code>ClientClass</code> 类的示例代码：</p>
@@ -2932,7 +2963,9 @@
 <p>可以看到，唯一的变化就是构造函数取代了 <code>Set_ServiceImpl</code> 方法，成为了注入点。</p>
 <h4 id="依赖获取"><a href="#依赖获取" class="headerlink" title="依赖获取"></a>依赖获取</h4><p>上面提到的注入方式，都是客户类被动接受所依赖的服务类，这也符合“注入”这个词。不过还有一种方法，可以和依赖注入达到相同的目的，就是依赖获取。 依赖获取（ <em>Dependency Locate</em> ）是指在系统中提供一个获取点，客户类仍然依赖服务类的接口。当客户类需要服务类时，从获取点主动取得指定的服务类，具体的服务类类型由获取点的配置决定。 可以看到，这种方法变被动为主动，使得客户类在需要时主动获取服务类，而将多态性的实现封装到获取点里面。获取点可以有很多种实现，也许最容易想到的就是建立一个Simple Factory作为获取点，客户类传入一个指定字符串，以获取相应服务类实例。如果所依赖的服务类是一系列类，那么依赖获取一般利用 Abstract Factory 模式构建获取点，然后，将服务类多态性转移到工厂的多态性上，而工厂的类型依赖一个外部配置，如XML文件。 不过，不论使用 Simple Factory 还是 Abstract Factory，都避免不了判断服务类类型或工厂类型，这样系统中总要有一个地方存在不符合 OCP 的 <code>if…else</code> 或 <code>switch…case</code> 结构，这种缺陷是 Simple Factory 和 Abstract Factory 以及依赖获取本身无法消除的，而在某些支持反射的语言中（如 C#），通过将反射机制的引入彻底解决了这个问题（后面讨论）。 下面给一个具体的例子，现在我们假设有个程序，既可以使用 Windows 风格外观，又可以使用 Mac 风格外观，而内部业务是一样的。</p>
 <!-- ![07_3.jpg](https://i.loli.net/2017/09/15/59bbb3d9a6b9f.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/7.webp" class="" title="img073">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/7.webp" alt="img073"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/7.webp" class="" title="img073"> -->
 
 <p>图3.4 依赖获取示意</p>
 <p>上图乍看有点复杂，不过如果读者熟悉 Abstract Factory 模式，应该能很容易看懂，这就是 Abstract Factory 在实际中的一个应用。这里的 Factory Container 作为获取点，是一个静态类，它的“<strong>Type 构造函数</strong>”依据外部的XML配置文件，决定实例化哪个工厂。下面还是来看示例代码。由于不同组件的代码是相似的，这里只给出 Button 组件的示例代码，完整代码请参考文末附上的完整源程序。</p>
@@ -2957,18 +2990,24 @@
 
 <p>可以看到，这里我们将配置设置为 Mac 风格，编译运行上述代码，运行结果如下：</p>
 <!-- ![08_3.jpg](https://i.loli.net/2017/09/15/59bbb4ede424d.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/8.jpg" class="" title="结果083">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/8.jpg" alt="结果083"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/8.jpg" class="" title="结果083"> -->
 
 <p>图3.5 配置Mac风格后的运行结果</p>
 <p>现在，我们不动程序，仅仅将配置文件中的“Mac”改为 Windows，运行后结果如下：</p>
 <!-- ![09_3.jpg](https://i.loli.net/2017/09/15/59bbb4d5af22b.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/9.jpg" class="" title="结果093">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/9.jpg" alt="结果093"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/9.jpg" class="" title="结果093"> -->
 
 <p>图3.6 配置为Windows风格后的运行结果</p>
 <p>从运行结果看出，我们仅仅通过修改配置文件，就改变了整个程序的行为（我们甚至没有重新编译程序），这就是多态性的威力，也是依赖注入效果。 本节共讨论了三种基本的依赖注入类别，有关更多依赖注入类别和不同类别对比的知识，可以参考 Martin Fowler 的《<a href="https://www.martinfowler.com/articles/injection.html" target="_blank" rel="noopener"><em>Inversion of Control Containers and the Dependency Injection pattern</em></a>》。</p>
 <h3 id="反射与依赖注入"><a href="#反射与依赖注入" class="headerlink" title="反射与依赖注入"></a>反射与依赖注入</h3><p>回想上面 <em>Dependency Locate</em> 的例子，我们虽然使用了多态性和 <em>Abstract Factory</em> ，但对 OCP 贯彻的不够彻底。在理解这点前，朋友们一定要注意潜在扩展在哪里，潜在会出现扩展的地方是“新的组件系列”而不是“组件种类”，也就是说，这里我们假设组件就三种，不会增加新的组件，但可能出现新的外观系列，如需要加一套 <em>Ubuntu</em> 风格的组件，我们可以新增 <em>UbuntuWindow</em> 、 <em>UbuntuButton</em> 、 <em>UbuntuTextBox</em> 和 <em>UbuntuFactory</em> ，并分别实现相应接口，这是符合 OCP 的，因为这是扩展。但我们除了修改配置文件，还要无可避免的修改 <em>FactoryContainer</em> ，需要加一个分支条件，这个地方破坏了 OCP。依赖注入本身是没有能力解决这个问题的，但如果语言支持反射机制（ <em>Reflection</em> ），则这个问题就迎刃而解。 我们想想，现在的难点是出在这里：对象最终还是要通过“new”来实例化，而“<code>new</code>”只能实例化当前已有的类，如果未来有新类添加进来，必须修改代码。如果，我们能有一种方法，不是通过“<code>new</code>”，而是通过类的名字来实例化对象，那么我们只要将类的名字作为配置项，就可以实现在不修改代码的情况下，加载未来才出现的类。所以，反射给了语言“预见未来”的能力，使得多态性和依赖注入的威力大增。 下面是引入反射机制后，对上面例子的改进：</p>
 <!-- ![10_3.jpg](https://i.loli.net/2017/09/15/59bbb60a2b744.jpg) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/10.webp" class="" title="img103">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/10.webp" alt="img103"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/10.webp" class="" title="img103"> -->
 
 <p>图3.7 引入反射机制的Dependency Locate</p>
 <p>可以看出，引入反射机制后，结构简单了很多，一个反射工厂代替了以前的一堆工厂，<code>Factory Container</code> 也不需要了。而且以后有新组件系列加入时，反射工厂是不用改变的，只需改变配置文件就可以完成。下面给出反射工厂和配置文件的代码。</p>
@@ -2985,11 +3024,15 @@
 <h4 id="重量级-IoC-Container"><a href="#重量级-IoC-Container" class="headerlink" title="重量级 IoC Container"></a>重量级 IoC Container</h4><p>所谓重量级 <em>IoC Container</em> ，是指一般用外部配置文件（一般是 <em>XML</em> ）作为依赖源，并托管整个系统各个类的实例化的 <em>IoC Container</em> 。这种 <em>IoC Container</em> ，一般是承接了整个系统几乎所有多态性的依赖注入工作，并承接了所有服务类的实例化工作，而且这些实例化依赖于一个外部配置文件，这种 <em>IoC Container</em> ，很像通过一个文件，定义整个系统多态结构，视野宏大，想要很好驾驭这种 <em>IoC Container</em> ，需要一定的架构设计能力和丰富的实践经验。 <em>Spring</em> 和 <em>Spring.NET</em> 是重量级 <em>IoC Container</em> 的例子。一般来说，这种 <em>IoC Container</em> 稳定性有余而活性不足，适合进行低活多态性的依赖注入。</p>
 <h4 id="轻量级-IoC-Container"><a href="#轻量级-IoC-Container" class="headerlink" title="轻量级 IoC Container"></a>轻量级 IoC Container</h4><p>还有一种 <em>IoC Container</em> ，一般不依赖外部配置文件，而主要使用传参的 Setter 或 Construtor 注入，这种IoC Container叫做轻量级 <em>IoC Container</em> 。这种框架很灵活，使用方便，但往往不稳定，而且依赖点都是程序中的字符串参数，所以，不适合需要大规模替换和相对稳定的低活多态性，而对于高活多态性，有很好的效果。 <em>Unity</em> 是一个典型的轻量级 <em>IoC Container</em> 。</p>
 <h3 id="NET平台上典型-IoC-Container-推介"><a href="#NET平台上典型-IoC-Container-推介" class="headerlink" title=".NET平台上典型 IoC Container 推介"></a>.NET平台上典型 IoC Container 推介</h3><h4 id="Spring-NET"><a href="#Spring-NET" class="headerlink" title="Spring.NET"></a>Spring.NET</h4><!-- ![11_3.png](https://i.loli.net/2017/09/15/59bbb86a93913.png) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/11.png" class="" title="img113">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/11.png" alt="img113"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/11.png" class="" title="img113"> -->
 
 <p><em>Spring.NET</em> 是 <em>Java</em> 平台上 <em>Spring</em> 对 <em>.NET</em> 平台的移植，使用方法和 <em>Spring</em> 很像，并且功能强大，是 <em>.NET</em> 平台上大中型开发 <em>IoC Container</em> 的首选之一。除了 <em>DI</em> 外，<em>Spring.NET</em> 也包括 <em>AOP</em> 等诸多功能。 <em>Spring.NET</em> 的官方网站是：<a href="http://www.springframework.net/" target="_blank" rel="noopener">http://www.springframework.net/</a></p>
 <h4 id="Unity"><a href="#Unity" class="headerlink" title="Unity"></a>Unity</h4><!-- ![12_3.gif](https://i.loli.net/2017/09/15/59bbb8f4a6954.gif) -->
-<img data-src="/2017/09/15/those-stories-of-dependency-injection/12.webp" class="" title="img123">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/those-stories-of-dependency-injection/12.webp" alt="img123"></p>
+<!-- <img data-src="/2017/09/15/those-stories-of-dependency-injection/12.webp" class="" title="img123"> -->
 
 <p>对于小型项目和讲求敏捷的团队，<em>Spring.NET</em> 可能有点太重量级，那么可以选择轻量级的 <em>Unity</em> 。<em>Unity</em> 是微软 <em>patterns &amp; practices</em> 团队推出的轻量级框架，非常好用，目前最新版本是 1.2。</p>
 <p><em>Unity</em> 的官方网站是：<a href="http://unity.codeplex.com/" target="_blank" rel="noopener">http://unity.codeplex.com/</a></p>
@@ -3176,17 +3219,23 @@
 <p>在 <em>F12</em> 中输入此段 <em>JavaScript</em> 代码，就可以显示各个节点的外部框架。</p>
 <p>效果如下：</p>
 <!-- ![js](https://ooo.0o0.ooo/2017/06/15/594230a99e355.png) -->
-<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/js.png" class="" title="js">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/the-two-methods-show-the-hierarchical-structure-of-the-nodes/js.png" alt="js"></p>
+<!-- <img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/js.png" class="" title="js"> -->
 
 <p>原网站：</p>
 <!-- ![原网站](https://ooo.0o0.ooo/2017/06/15/594230a9285a6.png) -->
-<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/%E5%8E%9F%E7%BD%91%E7%AB%99.png" class="" title="原网站">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/the-two-methods-show-the-hierarchical-structure-of-the-nodes/%E5%8E%9F%E7%BD%91%E7%AB%99.png" alt="原网站"></p>
+<!-- <img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/%E5%8E%9F%E7%BD%91%E7%AB%99.png" class="" title="原网站"> -->
 
 <h2 id="CSS-方法"><a href="#CSS-方法" class="headerlink" title="CSS 方法"></a>CSS 方法</h2><figure class="highlight css"><table><tr><td class="code"><pre><span class="line">* &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">0</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">255</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">0</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">0</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">0</span>, <span class="number">255</span>, <span class="number">255</span>, .<span class="number">2</span>);&#125;</span><br><span class="line">* * * * * * &#123;<span class="attribute">background-color</span>: <span class="built_in">rgba</span>(<span class="number">255</span>, <span class="number">255</span>, <span class="number">0</span>, .<span class="number">2</span>);&#125;</span><br></pre></td></tr></table></figure>
 
 <p>只要在网站中使用这一段 <em>CSS</em> 样式，就能看到如下效果：</p>
 <!-- ![css](https://ooo.0o0.ooo/2017/06/15/594230a9a0f03.png) -->
-<img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/css.png" class="" title="css">
+
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/the-two-methods-show-the-hierarchical-structure-of-the-nodes/css.png" alt="css"></p>
+<!-- <img data-src="/2017/06/15/the-two-methods-show-the-hierarchical-structure-of-the-nodes/css.png" class="" title="css"> -->
 
 <h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>两种方法都有自己的优缺点，<em>JavaScript</em> 的使用方便，但是只能适用于单个网站；而 <em>CSS</em> 样式适用于数量多的网站（只需要在公共 <em>CSS</em> 文件中加入这些代码就可以了）。</p>
 <h2 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h2><ol>
@@ -3239,8 +3288,10 @@
 <li><p>着装方面，程序员的话我觉得并不需要西装革履，打扮得清爽一点就好啦。</p>
 </li>
 </ol>
-<h2 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h2><!-- ![简历模版.jpg](https://ooo.0o0.ooo/2017/06/20/594916856b099.jpg) -->
+<h2 id="简历"><a href="#简历" class="headerlink" title="简历"></a>简历</h2><!-- ![简历模板.jpg](https://ooo.0o0.ooo/2017/06/20/594916856b099.jpg) -->
 
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF.jpg" alt="简历模版"></p>
+<!-- <img data-src="/2017/06/10/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF.jpg" class="" title="简历模板.jpg"> -->
 
 <p>简历方面，除了美术设计方面的职位，都不要太花哨，如果你是应聘前端，你完全可以做个网页，然后把你毕身所学都用上去。简历的样式只要看起来条理清晰就好了。</p>
 <ol start="0">
@@ -3250,7 +3301,9 @@
 </li>
 <li><p>控制简历长度，以及内容的分配。我个人是比较喜欢就一页纸。注意简洁明了，个人信息只要写：姓名、求职意向、出生年月、毕业学校专业是否为应届毕业生，比如说：「浙江大学计算机与科学专业应届毕业生」或者「浙江大学计算机与科学专业（2017）」，以及你的籍贯，为什么要写籍贯呢？如果你不是在本地求职，而是在外地，那么拼运气的时候就到了。如果你的 HR 是你的老乡的话，这肯定一个大大的加分项啊！最后就是联系方式。具体见下图：</p>
  <!-- ![snipaste_20170610_134835.png](https://ooo.0o0.ooo/2017/06/10/593b8a955e9d7.png) -->
- <img data-src="/2017/06/10/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%8A%AC%E5%A4%B4.png" class="" title="简历抬头">
+
+<p> <img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%8A%AC%E5%A4%B4.png" alt="简历抬头"></p>
+ <!-- <img data-src="/2017/06/10/about-recruitment-job-search-interview/%E7%AE%80%E5%8E%86%E6%8A%AC%E5%A4%B4.png" class="" title="简历抬头"> -->
 </li>
 <li><p>HR 最在意的还是你的项目经历，所以这一部分务必认真对待。如果你有多个项目，请不要按照时间来排序，而是按照你在项目中做出的实际贡献来排序。要写出你在此项目中担任的角色，以及负责哪些部分，这些方面才是 HR 真正看中的。你可以把一页纸的大部分就用来描写这些；</p>
 </li>
@@ -3336,7 +3389,7 @@
 </li>
 <li><p>The New Colossus</p>
 <blockquote>
-<p>Not like the brazen giant of Greek fame,<br>With conquering limbs astride from land to land;<br>Here at our sea-washed, sunset gates shall stand<br>A mighty woman with a torch, whose flame<br>Is the imprisoned lightning, and her name<br>Mother of Exiles. From her beacon-hand<br>Glows world-wide welcome; her mild eyes command<br>The air-bridged harbor that twin cities frame.<br><br>“Keep, ancient lands, your storied pomp!” cries she<br>With silent lips. “Give me your tired, your poor,<br>Your huddled masses yearning to breathe free,<br>The wretched refuse of your teeming shore.<br>Send these, the homeless, tempest-tost to me,<br>I lift my lamp beside the golden door!”</p>
+<p>Not like the brazen giant of Greek fame,</br>With conquering limbs astride from land to land;</br>Here at our sea-washed, sunset gates shall stand</br>A mighty woman with a torch, whose flame</br>Is the imprisoned lightning, and her name</br>Mother of Exiles. From her beacon-hand</br>Glows world-wide welcome; her mild eyes command</br>The air-bridged harbor that twin cities frame.</br></br>“Keep, ancient lands, your storied pomp!” cries she</br>With silent lips. “Give me your tired, your poor,</br>Your huddled masses yearning to breathe free,</br>The wretched refuse of your teeming shore.</br>Send these, the homeless, tempest-tost to me,</br>I lift my lamp beside the golden door!”</p>
 </blockquote>
 </li>
 <li><p>有志者立长志，无志者常立志。</p>
