@@ -9,7 +9,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -76,7 +76,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -168,7 +168,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -200,12 +200,19 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">effect</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">影响</td>
+<td align="left">-</td>
+</tr>
+<tr>
 <td align="left">emit</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -218,7 +225,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -243,7 +250,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -275,7 +282,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -307,7 +314,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -353,7 +360,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -371,7 +378,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -389,7 +396,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -407,7 +414,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -425,7 +432,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -478,7 +485,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -496,7 +503,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -549,7 +556,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -588,7 +595,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
@@ -606,7 +613,7 @@
 <tr>
 <th align="left">Word</th>
 <th align="left">Unabbreviated</th>
-<th align="left"><a href="https://en.wikipedia.org/wiki/Part_of_speech#Functional_classification" target="_blank" rel="noopener">Part of speech</a></th>
+<th align="left">Part of speech</th>
 <th align="left">Meaning</th>
 <th align="left">Source</th>
 </tr>
