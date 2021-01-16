@@ -1319,7 +1319,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #d7d78a;
+  background: #0a3ee4;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
