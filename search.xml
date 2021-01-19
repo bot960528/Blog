@@ -1106,7 +1106,7 @@
 <p>然而，<strong>他们中的一些人一直给 REST 带来非常、非常坏的名声。</strong></p>
 <iframe src="//player.bilibili.com/player.html?aid=44368211&bvid=BV1zb411h7GM&cid=77689275&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<p>错误的使用状态码，纯文本的响应，模式（schemas）不一致……<strong>这些我都见过</strong>（或者说至少见过很多**）。所以我决定写一些我认为在设计 REST API 时的一些好的实践。</p>
+<p>错误的使用状态码，纯文本的响应，模式（schemas）不一致……<strong>这些我都见过</strong>（或者说至少见过很多）。所以我决定写一些我认为在设计 REST API 时的一些好的实践。</p>
 <h2 id="免责声明"><a href="#免责声明" class="headerlink" title="免责声明"></a>免责声明</h2><p>我没有权力说下面的做法 100% 符合神圣的 RESTful 原则（如果有的话！）。我从构建和使用各种 API 的经验中收集了这些信息。</p>
 <p>同样，我也不假装已经掌握了 REST API 设计！这是一门<strong>手艺</strong>——你练习得越多，就做得越好。</p>
 <p>我将公开一些代码片段作为「糟糕设计的例子」。如果它们看起来和你写的东西很像，那也没关系！唯一重要的是我们一起学习。我希望这篇简单的清单体文章能够帮助我们做到这一点。</p>
@@ -1251,6 +1251,7 @@
 <p>例如，Flask 和 Express 都是两个非常通用的框架，但是它们并不是<em>专门</em>用来帮助你构建 REST API 的。</p>
 <p>因此，你必须采取<strong>额外的步骤</strong>在你的 API 中实现最佳实践。大多数时候，「懒惰」或「缺乏时间」意味着你不会付出努力，从而留给你的用户一个古怪的 API。</p>
 <p>解决方案很简单：<strong>使用合适的工具</strong>。</p>
+<p><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/restful-api-design-13-best-practices-to-make-your-users-happy/rest-apis-right-tool-for-job.jpg" alt="Holy sayings from good lad Scotty."></p>
 <p>各种语言中出现了专门用于构建 REST API 的新框架。<strong>他们帮助你遵循最佳实现，不会很麻烦，也不牺牲生产力。</strong></p>
 <p>在 Python 中，我发现的最好的 API 框架之一是 <a href="https://falconframework.org" target="_blank" rel="noopener">Falcon</a>。它与 Flask 一样简单易用，非常快，并且非常适合在几分钟内构建 REST API。</p>
 <!-- ![Falcon: Unburdening APIs for over 0.0564 centuries.](restful-api-design-13-best-practices-to-make-your-users-happy/Falcon.png) -->
