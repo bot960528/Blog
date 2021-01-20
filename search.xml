@@ -26,6 +26,12 @@
 <td align="left">异步的 JavaScript 与 XML 技术</td>
 </tr>
 <tr>
+<td align="left">algorithm</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">算法</td>
+</tr>
+<tr>
 <td align="left">analyze</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -84,6 +90,12 @@
 <td align="left">终身仁慈独裁者</td>
 </tr>
 <tr>
+<td align="left">binary</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">二进制</td>
+</tr>
+<tr>
 <td align="left">bug</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -136,6 +148,12 @@
 <td align="left">内容</td>
 </tr>
 <tr>
+<td align="left">convergence</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">收敛</td>
+</tr>
+<tr>
 <td align="left">cursor</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
@@ -152,6 +170,12 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">decimal</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">十进制</td>
+</tr>
+<tr>
 <td align="left">dequeue</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -270,6 +294,12 @@
 <td align="left">处理程序</td>
 </tr>
 <tr>
+<td align="left">hexadecimal</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">十六进制</td>
+</tr>
+<tr>
 <td align="left">HTCPCP</td>
 <td align="left">Hyper Text Coffee Pot Control Protocol</td>
 <td align="left">Noun</td>
@@ -280,6 +310,12 @@
 <td align="left">Hyper Text Markup Language</td>
 <td align="left">Noun</td>
 <td align="left">超文本标记语言</td>
+</tr>
+<tr>
+<td align="left">hypothesis</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">假设</td>
 </tr>
 </tbody></table>
 <h3 id="I"><a href="#I" class="headerlink" title="I"></a>I</h3><table>
@@ -402,6 +438,28 @@
 <td align="left">Not a Numner</td>
 <td align="left">Noun</td>
 <td align="left">不是一个数字</td>
+</tr>
+</tbody></table>
+<h3 id="O"><a href="#O" class="headerlink" title="O"></a>O</h3><table>
+<thead>
+<tr>
+<th align="left">Word</th>
+<th align="left">Unabbreviated</th>
+<th align="left">Part of speech</th>
+<th align="left">Meaning</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">octal</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">八进制</td>
+</tr>
+<tr>
+<td align="left">outline</td>
+<td align="left">-</td>
+<td align="left">Noun</td>
+<td align="left">大纲</td>
 </tr>
 </tbody></table>
 <h3 id="P"><a href="#P" class="headerlink" title="P"></a>P</h3><table>
@@ -3468,6 +3526,8 @@
     <url>/about/index.html</url>
     <content><![CDATA[<p>关于我什么呢，我也不知道，放一些一直以来收集的骚话吧！</p>
 <ul>
+<li><p><a href="https://www.v2ex.com/t/746505#r_10089818" target="_blank" rel="noopener">愿你来世做一只蝉，生于夏初，死于夏末，一生只有烈日当空，不必见那三九寒冬，你会看到那赤脚玩闹的孩童，眼里满是懵懂，也会看到他独饮于漫天星空，藏着一点不舍在眼眸。</a></p>
+</li>
 <li><p>We were both sensations to each other-eyes, ears, nose, hands, mouth. So, as long as I can tickle a few of those, I’m only gone from myself. Not from you.</p>
 <p>  我们之于彼此，本就是一些知觉——眼、耳、口、鼻、手的感觉。因此，只要我还能微微触动你的感官，我就只是离开了我自己，而未曾离开你。</p>
 <p>  <img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io/about/index/win-win.png" alt="win-win"></p>
