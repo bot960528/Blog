@@ -238,6 +238,12 @@
 <td align="left">链子；锁链</td>
 </tr>
 <tr>
+<td align="left">CLI</td>
+<td align="left">Command-Line Interface</td>
+<td align="left">Noun</td>
+<td align="left">命令行界面</td>
+</tr>
+<tr>
 <td align="left">commit</td>
 <td align="left">-</td>
 <td align="left">Verb</td>
@@ -374,22 +380,28 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="left">GNU</td>
+<td align="left">GNU’s Not Unix!</td>
+<td align="left">Noun</td>
+<td align="left">一个自由的操作系统</td>
+</tr>
+<tr>
 <td align="left">guard</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
 <td align="left">守卫</td>
 </tr>
 <tr>
+<td align="left">GUI</td>
+<td align="left">Graphical User Interface</td>
+<td align="left">Noun</td>
+<td align="left">图形用户界面</td>
+</tr>
+<tr>
 <td align="left">gutter</td>
 <td align="left">-</td>
 <td align="left">Noun</td>
 <td align="left">槽；排水沟</td>
-</tr>
-<tr>
-<td align="left">GNU</td>
-<td align="left">GNU’s Not Unix!</td>
-<td align="left">Noun</td>
-<td align="left">一个自由的操作系统</td>
 </tr>
 </tbody></table>
 <h3 id="H"><a href="#H" class="headerlink" title="H"></a>H</h3><table>
