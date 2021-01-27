@@ -817,6 +817,12 @@
 <td style="text-align:left">堆栈；栈区</td>
 </tr>
 <tr>
+<td style="text-align:left">swagger</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">Verb</td>
+<td style="text-align:left">昂首阔步</td>
+</tr>
+<tr>
 <td style="text-align:left">symbol</td>
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
@@ -841,6 +847,12 @@
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
 <td style="text-align:left">目标；靶；指标</td>
+</tr>
+<tr>
+<td style="text-align:left">timestamp</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">Noun</td>
+<td style="text-align:left">时间戳</td>
 </tr>
 </tbody>
 </table>
@@ -3360,6 +3372,9 @@
     <url>/about/index.html</url>
     <content><![CDATA[<p>关于我什么呢，我也不知道，放一些一直以来收集的骚话吧！</p>
 <ul>
+<li><p>The devil is in the detail.</p>
+<p>  魔鬼藏在细节中。</p>
+</li>
 <li><p>穷人在十字街头耍十把钢勾，勾不着亲人骨肉；富人在深山老林抡刀枪棍棒，打不散无义的宾朋；大将军手中枪，翻江倒海挡不住饥寒穷三个字。</p>
 </li>
 <li><p>来试试吧，孩子，你将踏上一段伟大的旅程。随着这道路去向终点，我将带着你的<strong>奖赏</strong>与你重逢。<strong>要小心</strong>！这一路你不知要面对多少危险……</p>
