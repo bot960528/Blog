@@ -191,6 +191,12 @@
 </thead>
 <tbody>
 <tr>
+<td style="text-align:left">BDFL</td>
+<td style="text-align:left">Benevolent Dictator For Life</td>
+<td style="text-align:left">Noun</td>
+<td style="text-align:left">终身仁慈独裁者</td>
+</tr>
+<tr>
 <td style="text-align:left">back-end</td>
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
@@ -201,12 +207,6 @@
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
 <td style="text-align:left">批量</td>
-</tr>
-<tr>
-<td style="text-align:left">BDFL</td>
-<td style="text-align:left">Benevolent Dictator For Life</td>
-<td style="text-align:left">Noun</td>
-<td style="text-align:left">终身仁慈独裁者</td>
 </tr>
 <tr>
 <td style="text-align:left">binary</td>
@@ -897,6 +897,12 @@
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
 <td style="text-align:left">向量</td>
+</tr>
+<tr>
+<td style="text-align:left">verbose</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">Adjective</td>
+<td style="text-align:left">冗长的</td>
 </tr>
 <tr>
 <td style="text-align:left">volatile</td>
