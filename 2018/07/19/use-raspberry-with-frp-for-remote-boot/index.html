@@ -53,7 +53,7 @@
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/use-raspberry-with-frp-for-remote-boot/6.webp">
 <meta property="og:image" content="https://www.aemon.top/2018/07/19/use-raspberry-with-frp-for-remote-boot/6.webp">
 <meta property="article:published_time" content="2018-07-19T14:56:39.000Z">
-<meta property="article:modified_time" content="2021-03-23T05:58:04.233Z">
+<meta property="article:modified_time" content="2021-03-23T08:38:42.833Z">
 <meta property="article:author" content="Aemon">
 <meta property="article:tag" content="树莓派">
 <meta name="twitter:card" content="summary">
@@ -261,7 +261,7 @@
                   <i class="fa fa-calendar-check-o"></i>
                 </span>
                 <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2021-03-23 13:58:04" itemprop="dateModified" datetime="2021-03-23T13:58:04+08:00">2021-03-23</time>
+                <time title="修改时间：2021-03-23 16:38:42" itemprop="dateModified" datetime="2021-03-23T16:38:42+08:00">2021-03-23</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -355,7 +355,7 @@
 <p>可以看到树莓派有两个 MAC 地址，由于我是使用无线连接所以我选择的是第二个 <em>wlan0</em>。 然后使用 <strong>IP/MAC绑定</strong> 功能将两台设备与 IP 进行绑定，绑定的时候建议就选择当前使用的 IP 以免用了其他设备正在使用的 IP，造成 IP 冲突。 如果绑定了其他的 IP，请在绑定成功后重启设备。</p>
 <h3 id="PC-WOL-配置"><a href="#PC-WOL-配置" class="headerlink" title="PC WOL 配置"></a>PC WOL 配置</h3><p>然后是要配置 PC 使其可以支持 WOL（wake-on-LAN）开机。WOL 是一种电源管理功能，中文译为 <strong>网络唤醒</strong>，以下是 Wiki 对其作出的解释：</p>
 <blockquote>
-<p>Wake-on-LAN简称WOL或WoL，中文多译为“网络唤醒”、“远程唤醒”技术。WOL是一种技术，同时也是该技术的规范标准，它的功效在于让已经进入休眠状态或关机状态的电脑，透过局域网（多半为以太网）的另一端对其发令，使其从休眠状态唤醒、恢复成运作状态，或从关机状态转成引导状态。此外，与WOL相关的技术也包括远程下令关机、远程下令重启等相关的遥控机制。</p>
+<p>Wake-on-LAN 简称 WOL 或 WoL，中文多译为「网络唤醒」、「远程唤醒」技术。WOL是一种技术，同时也是该技术的规范标准，它的功效在于让已经进入休眠状态或关机状态的电脑，透过局域网（多半为以太网）的另一端对其发令，使其从休眠状态唤醒、恢复成运作状态，或从关机状态转成引导状态。此外，与WOL相关的技术也包括远程下令关机、远程下令重启等相关的遥控机制。</p>
 </blockquote>
 <p>它的具体方法就是向要启动的设备发送一个魔法数据包（Magic Packet）：</p>
 <blockquote>
