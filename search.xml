@@ -551,6 +551,12 @@
 <td style="text-align:left">异步的 JavaScript 与 XML 技术</td>
 </tr>
 <tr>
+<td style="text-align:left">alert</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">Verb</td>
+<td style="text-align:left">提醒；警示</td>
+</tr>
+<tr>
 <td style="text-align:left">algorithm</td>
 <td style="text-align:left">-</td>
 <td style="text-align:left">Noun</td>
@@ -1361,6 +1367,12 @@
 <td style="text-align:left">-</td>
 <td style="text-align:left">Adjective</td>
 <td style="text-align:left">冗长的</td>
+</tr>
+<tr>
+<td style="text-align:left">version</td>
+<td style="text-align:left">-</td>
+<td style="text-align:left">Noun</td>
+<td style="text-align:left">版本</td>
 </tr>
 <tr>
 <td style="text-align:left">volatile</td>
@@ -4007,6 +4019,8 @@
     <url>/about/index.html</url>
     <content><![CDATA[<p>关于我什么呢，我也不知道，放一些一直以来收集的骚话吧！</p>
 <ul>
+<li><p><a href="https://zh.wikipedia.org/wiki/%E6%B2%A1%E6%9C%89%E9%93%B6%E5%BC%B9" target="_blank" rel="noopener">No Silver Bullet.</a></p>
+</li>
 <li><p>Roses are Red, Violets are Blue, Unexpected ‘{‘ on line 32.</p>
 </li>
 <li><p><a href="https://www.bilibili.com/video/BV11r4y1T7aX/?t=189" target="_blank" rel="noopener">往前看</a>|<a href="https://www.bilibili.com/video/BV1Qy4y1W77p?t=591" target="_blank" rel="noopener">往前看</a></p>
