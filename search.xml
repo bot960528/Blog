@@ -3,7 +3,7 @@
   <entry>
     <title>nvm use 命令不生效问题以及解决方法</title>
     <url>/2021/06/17/nvm-use-not-working/</url>
-    <content><![CDATA[<p>今天启动项目的时候发现报错了，提示说 node-sass 的版本不适用当前版本的 node。node-sass官网有一张表格，记录着 node-sass 和 node 的对应版本：</p>
+    <content><![CDATA[<p>今天启动项目的时候发现报错了，提示说 <strong>node-sass</strong> 的版本不适用当前版本的 <strong>node</strong>。<strong>node-sass</strong> 官网有一张表格，记录着 <strong>node-sass</strong> 和 <strong>node</strong> 的对应版本：</p>
 <div class="table-container">
 <table>
 <thead>
