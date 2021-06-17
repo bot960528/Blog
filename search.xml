@@ -3,7 +3,7 @@
   <entry>
     <title>nvm use 命令不生效问题以及解决方法</title>
     <url>/2021/06/17/nvm-use-not-working/</url>
-    <content><![CDATA[<p>今天启动项目的时候发现报错了，提示说 <strong>node-sass</strong> 的版本不适用当前版本的 <strong>node</strong>。<strong>node-sass</strong> 官网有一张表格，记录着 <strong>node-sass</strong> 和 <strong>node</strong> 的对应版本：</p>
+    <content><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>今天启动项目的时候发现报错了，提示说 <strong>node-sass</strong> 的版本不适用当前版本的 <strong>node</strong>。<strong>node-sass</strong> 官网有一张表格，记录着 <strong>node-sass</strong> 和 <strong>node</strong> 的对应版本：</p>
 <div class="table-container">
 <table>
 <thead>
@@ -65,12 +65,12 @@
 <p>我使用的 <strong>node-sass</strong> 版本为：</p>
 <figure class="highlight"><table><tr><td class="code"><pre><span class="line">"node-sass": "^4.12.0"</span><br></pre></td></tr></table></figure>
 <p>我记得我的 <strong>node</strong> 版本应该是 <code>v14.16.0</code>，应该不会有问题啊。</p>
-<p>但是试了几次 <code>npm run serve</code>，都是报错，于是我只好查看了一下我的 <strong>node</strong> 版本：</p>
+<h2 id="解决？"><a href="#解决？" class="headerlink" title="解决？"></a>解决？</h2><p>但是试了几次 <code>npm run serve</code>，都是报错，于是我只好查看了一下我的 <strong>node</strong> 版本：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&gt; node --version</span><br><span class="line">v16.3.0</span><br></pre></td></tr></table></figure>
 <p><code>v16.3.0</code>？？？</p>
 <p>我明明是 <code>v14.16.0</code> 啊，怎么变成 <code>v16.3.0</code> 了？我想起前几天好像是用 <code>nvm</code> 安装了一个当前最新的版本，可能那时候安装好没切换回来吧，于是我：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&gt; nvm use v14.16.0</span><br><span class="line">Now using node v14.16.0 (npm v7.15.1)</span><br></pre></td></tr></table></figure>
-<p>ok！easy，于是我愉快的 <code>npm run serve</code>，靠！怎么还是报错？</p>
+<h2 id="大问题"><a href="#大问题" class="headerlink" title="大问题"></a>大问题</h2><p>ok！easy，于是我愉快的 <code>npm run serve</code>，靠！怎么还是报错？</p>
 <p>我再次查看了一下我的 <strong>node</strong> 版本：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">&gt; node --version</span><br><span class="line">v16.3.0</span><br></pre></td></tr></table></figure>
 <p>怎么没切过去？出了什么问题？</p>
@@ -87,13 +87,27 @@
 <p>Error: Refusing to uninstall /opt/homebrew/Cellar/node/16.3.0<br>because it is required by yarn, which is currently installed.</p>
 </blockquote>
 <p><strong>yarn</strong>？原来是你！我终于想到昨天下午为了搭建一个新项目的环境，我安装了 <strong>yarn</strong>，由于它是依赖于 <strong>node</strong> 的，所以 <strong>homebrew</strong> 顺便帮我安装了 <strong>node</strong>。知道了原因，接下来就好办了。</p>
-<p>首先卸载 <strong>yarn</strong>：</p>
+<h2 id="解决！"><a href="#解决！" class="headerlink" title="解决！"></a>解决！</h2><p>首先卸载 <strong>yarn</strong>：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">brew uninstall yarn</span><br></pre></td></tr></table></figure>
 <p>然后卸载 <strong>node</strong>：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">brew uninstall node</span><br></pre></td></tr></table></figure>
 <p>之后再重新安装 <strong>yarn</strong> 并加上忽略依赖项参数：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">brew install yarn --ignore-dependencies</span><br></pre></td></tr></table></figure>
 <p>至此，<strong>nvm</strong> 和 <strong>yarn</strong> 终于能和谐共处啦🎉！</p>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ul>
+<li><p><a href="https://stackoverflow.com/questions/52174381/yarn-not-installing-in-nvm-version-node-version" target="_blank" rel="noopener">https://stackoverflow.com/questions/52174381/yarn-not-installing-in-nvm-version-node-version</a></p>
+</li>
+<li><p><a href="https://classic.yarnpkg.com/en/docs/install#debian-stable" target="_blank" rel="noopener">https://classic.yarnpkg.com/en/docs/install#debian-stable</a></p>
+</li>
+<li><p><a href="https://github.com/sass/node-sass/releases/tag/v4.14.1" target="_blank" rel="noopener">https://github.com/sass/node-sass/releases/tag/v4.14.1</a></p>
+</li>
+<li><p><a href="https://stackoverflow.com/questions/52676244/node-version-not-updating-after-nvm-use-on-mac" target="_blank" rel="noopener">https://stackoverflow.com/questions/52676244/node-version-not-updating-after-nvm-use-on-mac</a></p>
+</li>
+<li><p><a href="https://stackoverflow.com/questions/37415134/error-node-sass-does-not-yet-support-your-current-environment-windows-64-bit-w" target="_blank" rel="noopener">https://stackoverflow.com/questions/37415134/error-node-sass-does-not-yet-support-your-current-environment-windows-64-bit-w</a></p>
+</li>
+<li><p><a href="https://github.com/sass/node-sass#node-version-support-policy" target="_blank" rel="noopener">https://github.com/sass/node-sass#node-version-support-policy</a></p>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>WEB 前端</category>
