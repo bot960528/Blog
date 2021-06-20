@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>A puzzle a day</title>
+    <url>/2021/06/20/a-puzzle-a-day/</url>
+    <content><![CDATA[<p>在<a href="http://jandan.net/" target="_blank" rel="noopener">煎蛋</a>上看到了这个 puzzle，立马上淘宝买了一份。有点难度，希望可以坚持打卡一年！</p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Image</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18th May</td>
+<td><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/a-puzzle-a-day/0518.jpg" alt="18th May"></td>
+</tr>
+<tr>
+<td>28th May</td>
+<td><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/a-puzzle-a-day/0528.jpg" alt="28th May"></td>
+</tr>
+<tr>
+<td>20th June</td>
+<td><img data-src="https://cdn.jsdelivr.net/gh/AemonCao/AemonCao.github.io@source/source/_posts/a-puzzle-a-day/0620.jpg" alt="20th June"></td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content>
+      <categories>
+        <category>puzzle</category>
+      </categories>
+      <tags>
+        <tag>puzzle</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>nvm use 命令不生效问题以及解决方法</title>
     <url>/2021/06/17/nvm-use-not-working/</url>
     <content><![CDATA[<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>今天启动项目的时候发现报错了，提示说 <strong>node-sass</strong> 的版本不适用当前版本的 <strong>node</strong>。<strong>node-sass</strong> 官网有一张表格，记录着 <strong>node-sass</strong> 和 <strong>node</strong> 的对应版本：</p>
@@ -87,7 +123,7 @@
 <p>Error: Refusing to uninstall /opt/homebrew/Cellar/node/16.3.0<br>because it is required by yarn, which is currently installed.</p>
 </blockquote>
 <p><strong>yarn</strong>？原来是你！我终于想到昨天下午为了搭建一个新项目的环境，我安装了 <strong>yarn</strong>，由于它是依赖于 <strong>node</strong> 的，所以 <strong>homebrew</strong> 顺便帮我安装了 <strong>node</strong>。知道了原因，接下来就好办了。</p>
-<h2 id="解决！"><a href="#解决！" class="headerlink" title="解决！"></a>解决！</h2><p>首先卸载 <strong>yarn</strong>：</p>
+<h2 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h2><p>首先卸载 <strong>yarn</strong>：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">brew uninstall yarn</span><br></pre></td></tr></table></figure>
 <p>然后卸载 <strong>node</strong>：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">brew uninstall node</span><br></pre></td></tr></table></figure>
